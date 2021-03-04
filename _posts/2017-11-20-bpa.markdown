@@ -1,0 +1,28 @@
+---
+draft: false
+categories:
+- Some facts about
+- factasticgirl
+uuid: 1e70a1d4-684a-4d0e-b7db-b2fb877518a9
+layout: post
+title: Bisphenol A (BPA)
+id: 93
+tags:
+- plastic
+- bpa
+- baby bottle
+- can
+---
+
+Bisphenol A, commonly referred to as BPA, is a synthetic estrogen (xenoestrogen) that is used in the chemical industry to manufacture plastics. BPA, which is used in numerous commercial products such as laptops, cell phones, baby bottles, water main pipes, laboratory and hospital equipment, food storage containers (water bottles and food/soda cans) is [discovered](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2774166/) to be toxic with harmful effects on both environment and human body.A comprehensive [literature search](https://www.ncbi.nlm.nih.gov/pubmed/23994667) about the relationship between BPA and health effects in humans was published in 2013 providing support that environmental BPA exposure can be harmful to humans, especially in regards to behavioural and other effects in children.Highlighted evidences raise concerns of BPA implications in diseases below:
+- [Insulin Resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600722/)
+- [Diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5086728/)
+- [Obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664337/)
+- [Reproductive disorders](https://www.ncbi.nlm.nih.gov/pubmed/20467048)
+- [Cardiovascular diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4205098/)
+- [Birth defects](https://www.ncbi.nlm.nih.gov/pubmed/25796969)
+- Chronic [respiratory](https://www.ncbi.nlm.nih.gov/pubmed/26685510) and [kidney](https://www.ncbi.nlm.nih.gov/pubmed/29103408) diseases
+- [Thyroid cancer](https://www.ncbi.nlm.nih.gov/pubmed/28279065)
+- [Colorectal cancer](https://www.ncbi.nlm.nih.gov/pubmed/25119493), and
+- [Breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/21909620)
+What are we supposed to do? Even with a few simple changes of habits in food&drink shopping, we can drastically reduce our exposure.

@@ -1,0 +1,14 @@
+---
+draft: false
+categories:
+- AI Guy
+uuid: a9421c19-f29c-4173-ad0e-11e01949de2c
+layout: post
+title: Hiatus
+id: 1180
+tags: []
+image: wp-content/uploads/2019/01/image.png
+---
+
+After a long hiatus because of couple of reasons. I will try post some articles more frequently
+

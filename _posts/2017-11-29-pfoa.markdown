@@ -1,0 +1,28 @@
+---
+draft: false
+categories:
+- Some facts about
+- factasticgirl
+uuid: eeb44554-1544-4470-a812-4139546165a8
+layout: post
+title: Perfluorooctanoic acid (PFOA)
+id: 308
+tags:
+- pfoa
+- cancer
+- fish
+- water
+- thyroiddisease
+- childrenneurotoxicity
+---
+
+[PFOA](https://pubchem.ncbi.nlm.nih.gov/compound/Pentadecafluorooctanoic_acid#section=Top) is a synthetic persistent chemical, which is widely used in commercial and industrial manufacturing such as prominent consumer goods of non-stick cookware (Teflon), waterproof carpets, breathable clothing (Gore-Tex), filtration in water treatment processes, microwave popcorn bags and latex printing inks. PFOA&nbsp;persists indefinitely into the [air](https://www2.mst.dk/Udgiv/publications/2016/08/978-87-93435-98-8.pdf),&nbsp;[water](https://www.epa.gov/ground-water-and-drinking-water/drinking-water-health-advisories-pfoa-and-pfos), and [soil](http://www.sciencedirect.com/science/article/pii/S0043135414006940) as a [toxicant and carcinogen](https://monographs.iarc.fr/ENG/Publications/internrep/08-001.pdf). Once it is in the environment, our [food and beverages](https://www.ncbi.nlm.nih.gov/pubmed/20811865)&nbsp;are further exposed particularly fish, and sea food (i.e. shrimps, mussels, clams, and oysters).PFOA,&nbsp;&nbsp;its salts and [PFOA-related](https://www.bund.net/fileadmin/user_upload_bund/publikationen/chemie/fluor_studie.pdf)substances (C<sub>8</sub>-chemistry) are identified as persistent, bioaccumulative, toxic and will be banned from 4 July 2020 in the European Union ([EU Regulation under Entry 68 of Annex XVII of REACH](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1000&from=EN)). Until this regulation is implemented, there have been and are still cases where the exposure of PFOA are associated with increased risk of diseases such as below:
+- [Cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3855514/)&nbsp;(i.e.&nbsp;[kidney cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3855514/), [testicular cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3855514/), [breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203030/), [colorectal cancer](https://www.ncbi.nlm.nih.gov/pubmed/24468211))
+- [Ulcerative colitis](https://www.ncbi.nlm.nih.gov/pubmed/23735465)
+- [Thyroid disease](https://www.ncbi.nlm.nih.gov/pubmed/20089479?dopt=Abstract)
+- [Autism spectrum disorders](https://www.ncbi.nlm.nih.gov/pubmed/23137609)
+- [Reduced fertility](https://www.ncbi.nlm.nih.gov/pubmed/19176540/)
+- [Pregnancy-induced hypertension](https://ehp.niehs.nih.gov/121-a340/)
+- [Higher concentration of total cholesterol (mg/dL)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056969), and
+- Neurotoxicity in children ([attention deficit&nbsp;hyperactivity&nbsp;disorder&nbsp;(ADHD)](https://www.ncbi.nlm.nih.gov/pubmed/27174824), [dyslipidemia, immunity including vaccine response and asthma, renal function, and age at menarche](http://www.mdpi.com/1660-4601/14/7/691/htm), [thyroid dysfunction](https://ehp.niehs.nih.gov/1104370/), [hyperactivity](https://ehjournal.biomedcentral.com/articles/10.1186/1476-069X-13-106), [behaviour and motor development effects](https://www.ncbi.nlm.nih.gov/pubmed/25567242))
+It is found that the greatest portion of the [chronic exposure to PFOS](https://www.ncbi.nlm.nih.gov/pubmed/18419647) are likely to result from the intake of contaminated foods, including drinking water. This is followed by the ingestion of dust and inhalation of air. Therefore, the most adequate starting point is eliminating the exposed foods and beverages as well as other related consumer products, and contacting producers and organisations to follow up the regulations to occur.

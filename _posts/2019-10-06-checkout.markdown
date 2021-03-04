@@ -1,0 +1,12 @@
+---
+draft: false
+categories: []
+uuid: c55f0395-ae25-41ec-b207-4c73ec8ca57c
+layout: page
+title: Checkout
+id: 1288
+tags: []
+---
+
+[woocommerce\_checkout]
+
