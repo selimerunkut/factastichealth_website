@@ -74,7 +74,7 @@ tags: []
 
 ## Other Languages
 
-### German
+### Deutsch
 
 - [http://veganundroh.blogspot.com/p/linksammlung-vegan.html](http://veganundroh.blogspot.com/p/linksammlung-vegan.html)
 - [http://www.die-muenchnerin.de/vegane-linksammlung/](http://www.die-muenchnerin.de/vegane-linksammlung/)
@@ -85,16 +85,25 @@ tags: []
 - [https://proveg.com/de/pflanzlicher-lebensstil/](https://proveg.com/de/pflanzlicher-lebensstil/)
 - [https://www.vchangemakers.de/homepage/vegan-guide/](https://www.vchangemakers.de/homepage/vegan-guide/)
 - [https://plant-based-institute.com/](https://plant-based-institute.com/)
+- [IFPE – Forschungsinstitut für pflanzenbasierte Ernährung](https://ifpe-giessen.de/)
+
+
+#### Ernährungsberater & Ärzte
+
 - [Niko Rittenau](https://www.nikorittenau.com/)
+- [Roland Liebscher-Bracht und Dr. med. Petra Bracht](https://www.liebscher-bracht.com/)
+- [Dr. med. Ernst Walter Henrich](https://www.provegan.info/de/provegan-stiftung/)
+- [Dr. oec. troph. Markus Keller](https://www.drmarkuskeller.de/)
+- [IFPE Ärzte](https://ifpe-giessen.de/index.php/team/)
 
-### Turkish
+### Türkçe
 
-#### Plant-Based Youtube Channels
+#### Plant-Based Youtube Kanallari
 
 - [Dr. Murat Kınıkoğlu](https://www.youtube.com/channel/UCXmVhZMjMDgRDSvcTxuEysg)
 - [Dr. Suat Erus](https://www.youtube.com/channel/UCJFbmD0YNPIAx7O_45spfkw)
 
-#### Link Compilation
+#### Link derlemesi
 
 - [Veganlik.org](https://veganlik.org/)
 - [Vegan dernegi - beslenme](https://tvd.org.tr/saglik-beslenme/)
