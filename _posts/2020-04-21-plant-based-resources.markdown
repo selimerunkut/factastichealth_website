@@ -86,6 +86,7 @@ tags: []
 - [https://plant-based-institute.com/](https://plant-based-institute.com/)
 - [IFPE – Forschungsinstitut für pflanzenbasierte Ernährung](https://ifpe-giessen.de/)
 - [Berlin Vegan](https://www.berlin-vegan.de/)
+- [vegan.at](https://www.vegan.at)
 
 
 #### Ernährungsberater & Ärzte
@@ -95,6 +96,7 @@ tags: []
 - [Dr. med. Ernst Walter Henrich](https://www.provegan.info/de/provegan-stiftung/)
 - [Dr. oec. troph. Markus Keller](https://www.drmarkuskeller.de/)
 - [IFPE Ärzte](https://ifpe-giessen.de/index.php/team/)
+- [Ärzte Österreich](https://www.vegan.at/inhalt/vegane-arztinnen-und-arzte)
 
 #### Sport
 
