@@ -31,7 +31,6 @@ tags: []
 ## Dietitians
 
 - [Ginny Kisch Messina](https://www.theveganrd.com/)
-- [Niko Rittenau](https://www.nikorittenau.com/)
 - [Jack Norris](http://jacknorrisrd.com/)
 
 ## Programs that helped personally a lot
@@ -85,6 +84,8 @@ tags: []
 - [https://www.deutschlandistvegan.de/vegane-buecher/](https://www.deutschlandistvegan.de/vegane-buecher/)
 - [https://proveg.com/de/pflanzlicher-lebensstil/](https://proveg.com/de/pflanzlicher-lebensstil/)
 - [https://www.vchangemakers.de/homepage/vegan-guide/](https://www.vchangemakers.de/homepage/vegan-guide/)
+- [https://plant-based-institute.com/](https://plant-based-institute.com/)
+- [Niko Rittenau](https://www.nikorittenau.com/)
 
 ### Turkish
 
