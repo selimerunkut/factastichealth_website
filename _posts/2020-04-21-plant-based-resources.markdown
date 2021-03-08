@@ -38,13 +38,12 @@ tags: []
 - [Paddison Program](https://www.paddisonprogram.com/)
 - [Wim Hof Method](https://www.wimhofmethod.com/)
 
-## Sport
+## Athletes
 
 - [Great Vegan Athletes](https://www.greatveganathletes.com/)
 - [Rich Roll](https://www.richroll.com/)
 - [Scott Jurek](http://www.scottjurek.com/)
 - [Vegan Runners](https://www.veganrunners.org.uk/)
-- [Bevegt](https://www.bevegt.de/)
 
 ## Handpicked Publications and Quotes
 
@@ -86,6 +85,7 @@ tags: []
 - [https://www.vchangemakers.de/homepage/vegan-guide/](https://www.vchangemakers.de/homepage/vegan-guide/)
 - [https://plant-based-institute.com/](https://plant-based-institute.com/)
 - [IFPE – Forschungsinstitut für pflanzenbasierte Ernährung](https://ifpe-giessen.de/)
+- [Berlin Vegan](https://www.berlin-vegan.de/)
 
 
 #### Ernährungsberater & Ärzte
@@ -95,6 +95,12 @@ tags: []
 - [Dr. med. Ernst Walter Henrich](https://www.provegan.info/de/provegan-stiftung/)
 - [Dr. oec. troph. Markus Keller](https://www.drmarkuskeller.de/)
 - [IFPE Ärzte](https://ifpe-giessen.de/index.php/team/)
+
+#### Sport
+
+- [Bevegt](https://www.bevegt.de/)
+- [Laufen gegen Leiden](https://laufengegenleiden.de/)
+- [veganrunners.de/](https://veganrunners.de/)
 
 ### Türkçe
 
