@@ -87,6 +87,7 @@ tags: []
 - [IFPE – Forschungsinstitut für pflanzenbasierte Ernährung](https://ifpe-giessen.de/)
 - [Berlin Vegan](https://www.berlin-vegan.de/)
 - [vegan.at](https://www.vegan.at)
+- [placeforvegans.de](https://placeforvegans.de/dienstleister/)
 
 
 #### Ernährungsberater & Ärzte
