@@ -2,8 +2,8 @@
 name: "Factastic Health"
 title: "Factastic Health"
 description: "Healthy For Life"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
 google_analytics: 'UA-110579843-1'
 include: ["_pages"]
 permalink: /:title/
