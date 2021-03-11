@@ -31,7 +31,6 @@ tags: []
 ## Dietitians
 
 - [Ginny Kisch Messina](https://www.theveganrd.com/)
-- [Niko Rittenau](https://www.nikorittenau.com/)
 - [Jack Norris](http://jacknorrisrd.com/)
 
 ## Programs that helped personally a lot
@@ -39,13 +38,12 @@ tags: []
 - [Paddison Program](https://www.paddisonprogram.com/)
 - [Wim Hof Method](https://www.wimhofmethod.com/)
 
-## Sport
+## Athletes
 
 - [Great Vegan Athletes](https://www.greatveganathletes.com/)
 - [Rich Roll](https://www.richroll.com/)
 - [Scott Jurek](http://www.scottjurek.com/)
 - [Vegan Runners](https://www.veganrunners.org.uk/)
-- [Bevegt](https://www.bevegt.de/)
 
 ## Handpicked Publications and Quotes
 
@@ -75,7 +73,7 @@ tags: []
 
 ## Other Languages
 
-### German
+### Deutsch
 
 - [http://veganundroh.blogspot.com/p/linksammlung-vegan.html](http://veganundroh.blogspot.com/p/linksammlung-vegan.html)
 - [http://www.die-muenchnerin.de/vegane-linksammlung/](http://www.die-muenchnerin.de/vegane-linksammlung/)
@@ -85,15 +83,36 @@ tags: []
 - [https://www.deutschlandistvegan.de/vegane-buecher/](https://www.deutschlandistvegan.de/vegane-buecher/)
 - [https://proveg.com/de/pflanzlicher-lebensstil/](https://proveg.com/de/pflanzlicher-lebensstil/)
 - [https://www.vchangemakers.de/homepage/vegan-guide/](https://www.vchangemakers.de/homepage/vegan-guide/)
+- [https://plant-based-institute.com/](https://plant-based-institute.com/)
+- [IFPE – Forschungsinstitut für pflanzenbasierte Ernährung](https://ifpe-giessen.de/)
+- [Berlin Vegan](https://www.berlin-vegan.de/)
+- [vegan.at](https://www.vegan.at)
+- [placeforvegans.de](https://placeforvegans.de/dienstleister/)
 
-### Turkish
 
-#### Plant-Based Youtube Channels
+#### Ernährungsberater & Ärzte
+
+- [Niko Rittenau](https://www.nikorittenau.com/)
+- [Roland Liebscher-Bracht und Dr. med. Petra Bracht](https://www.liebscher-bracht.com/)
+- [Dr. med. Ernst Walter Henrich](https://www.provegan.info/de/provegan-stiftung/)
+- [Dr. oec. troph. Markus Keller](https://www.drmarkuskeller.de/)
+- [IFPE Ärzte](https://ifpe-giessen.de/index.php/team/)
+- [Ärzte Österreich](https://www.vegan.at/inhalt/vegane-arztinnen-und-arzte)
+
+#### Sport
+
+- [Bevegt](https://www.bevegt.de/)
+- [Laufen gegen Leiden](https://laufengegenleiden.de/)
+- [veganrunners.de/](https://veganrunners.de/)
+
+### Türkçe
+
+#### Plant-Based Youtube Kanallari
 
 - [Dr. Murat Kınıkoğlu](https://www.youtube.com/channel/UCXmVhZMjMDgRDSvcTxuEysg)
 - [Dr. Suat Erus](https://www.youtube.com/channel/UCJFbmD0YNPIAx7O_45spfkw)
 
-#### Link Compilation
+#### Link derlemesi
 
 - [Veganlik.org](https://veganlik.org/)
 - [Vegan dernegi - beslenme](https://tvd.org.tr/saglik-beslenme/)
