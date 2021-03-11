@@ -5,7 +5,6 @@ description: "Healthy For Life"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
 google_analytics: 'UA-110579843-1'
-include: ["_pages"]
 permalink: /:title/
 
 # Plugins
@@ -42,3 +41,8 @@ adsense: "disabled"
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+collections:
+  pages:
+    output: true
+    permalink: "/:title/"
