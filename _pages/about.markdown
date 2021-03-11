@@ -6,6 +6,7 @@ layout: page
 title: About
 id: 260
 tags: []
+footer: true
 ---
 
 ### We are passionate about sharing the facts from latest research for health and wellness.

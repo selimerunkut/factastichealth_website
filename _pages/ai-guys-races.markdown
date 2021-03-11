@@ -6,6 +6,7 @@ layout: page
 title: Ai Guy's Races
 id: 1203
 tags: []
+footer: true
 ---
 
 Wasserstadt Triathlon Hannover

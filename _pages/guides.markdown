@@ -6,6 +6,8 @@ layout: page
 title: Guides
 id: 8132
 tags: []
+footer: true
+order: 10
 ---
 
 #### [Simply Pain Free](https://factastichealth.com/wp-content/uploads/2018/03/SimplyPainFree.pdf)

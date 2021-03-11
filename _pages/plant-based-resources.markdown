@@ -6,6 +6,7 @@ layout: page
 title: Plant-Based Resources
 id: 8096
 tags: []
+footer: true
 ---
 
 ## M.D.'s

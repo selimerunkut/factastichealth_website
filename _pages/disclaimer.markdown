@@ -6,6 +6,8 @@ layout: page
 title: Disclaimer
 id: 270
 tags: []
+footer: true
+order: 5
 ---
 
  **Medical and Personal Disclaimer**
