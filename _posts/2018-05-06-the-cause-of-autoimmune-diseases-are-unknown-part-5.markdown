@@ -19,6 +19,6 @@ And a lot more foods based on your gut health level and elimination diet progres
 
 Also be careful with seasoning your food, keep it to a minimum, as some spices like cayenne can promote inflammatory reactions.
 
-A pinch of salt, really not a spoon full a few&nbsp;crumbles ![](https://factastichealth.com/wp-content/uploads/2018/05/14440518720_ce357f93c0_b-595x396.jpg)to your vegetables is fine will help you to make delicious meals with the baseline foods mentioned above. A word of caution&nbsp;[high-salt diets can turn on genes that promote autoimmune processes in our body](https://www.ncbi.nlm.nih.gov/pubmed/26485281).
+A pinch of salt, really not a spoon full a few&nbsp;crumbles ![](https://factastichealth.com/wp-content/uploads/2018/05/14440518720_ce357f93c0_b.jpg)to your vegetables is fine will help you to make delicious meals with the baseline foods mentioned above. A word of caution&nbsp;[high-salt diets can turn on genes that promote autoimmune processes in our body](https://www.ncbi.nlm.nih.gov/pubmed/26485281).
 
 What are the next steps after our inflammation has improved? We discuss that in [part 6](https://factastichealth.com/the-cause-of-autoimmune-diseases-are-unknown-part-6) of our series. &nbsp;

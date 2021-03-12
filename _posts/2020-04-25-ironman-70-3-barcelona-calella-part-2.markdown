@@ -20,11 +20,11 @@ The next day woke up pretty early after a late night sleep, must have been the e
 
 The Ironman village was more then one and a half kilometers away from the airbnb that I rented. Calella’s old town about 700 meters. Walked the rest of the road from the beach side with a nice view of the mediterranean sea. Roadblocks for the race parkour started appearing and my excitement also increasing with every step. Arriving at the Ironman Village small shops starting to appear selling all kinds of triathlon stuff from mountable nutrition kits to spare tires, tricots, helmets. They even had a high end bike rent shop with time trial bikes.&nbsp;
 
-![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133542-960x720.jpg)
+![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133542-scaled.jpg)
 
 Took some photos of the Village and going past the shops found the registration tent. Found my name on the registration list and received my ironman bracelet, that I had to wear for whole of the event to able to enter the briefing tent, official ironman shop and the transition area. Most importantly I got my Ironman backpack with all the gear and information for the race. Visited the official Ironman Shop and looked at the gear bought an Ironman magnet and a swimming goggles.
 
-![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133222-960x720.jpg)
+![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133222-scaled.jpg)
 
 There was still time for the english race briefing so again started looking at the shops before the registration tent and decided to&nbsp; buy a bandana for factasticgirl and co2 cartridge for a faster repair if something would happen to the bike. Speaking of which, I decided while preparing for the race not to transport my bike and instead to rent a road bike for the race in Calella. After searching through a few companies I decided to rent from Medbikes.
 
@@ -33,7 +33,7 @@ Overall visiting the Ironman village was a blast.
 
 After the briefing I walked to the Medbike’s temporary shop to check out my rented bike and test drive it. Took my rented bike from the Medbike shop and drove a few hundred meters to test its gear and overall feeling. It was a more high end bike then what I was riding in Düsseldorf and it also felt like it.&nbsp;
 
-&nbsp;&nbsp;&nbsp; ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-960x720.jpg)
+&nbsp;&nbsp;&nbsp; ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-scaled.jpg)
 
 After riding it for a few minutes and very satisfied with my bike, explained the shop that the I will take the bike tomorrow to bring it to the transition area. Left with a big smile on my face, after everything went very smoothly.  
   
