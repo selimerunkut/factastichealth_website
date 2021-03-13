@@ -28,4 +28,4 @@ If you want to activate your brown fat (brown adipose tissue), cold showers can 
 
 Body heat can be lost 25 times faster in cold water than in cold air.
 
-What is Hypothermia? It's a physical condition that occurs when the body's core temperature falls to 35° C or below.Even a mild case of hypothermia diminishes a victim's physical and mental abilities, thus increasing the risk of accidents. Severe hypothermia may result in unconsciousness and possibly death.Elderly people are particularly vulnerable to hypothermia.[If the&nbsp;Water Temperature is 3-10° C&nbsp;Expected Time Before Exhaustion or Unconsciousness is 30 to 60 minutes,&nbsp;at 10–15.6° its 1-2 hours.](http://www.seagrant.umn.edu/coastal_communities/hypothermia)&nbsp;
+What is Hypothermia?... Will continue in the blog "Hypothermia Prevention During Cold Showers" &nbsp;
