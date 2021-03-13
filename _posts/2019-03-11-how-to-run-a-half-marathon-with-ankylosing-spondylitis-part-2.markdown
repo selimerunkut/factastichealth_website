@@ -27,6 +27,8 @@ As a rookie and first-timer at a "long" distance run; started slowly and let the
 
 I run behind them less than an hour and then saw a guy slowly but steadily overtaking us and started following him. Nearing the 10k mark I had the feeling that he was getting faster and faster a little but constantly all the time. I tried to follow and even overtook him on the last km of the race.  
   
-Finishing the race was just fantastic and they got even free massage service after the race. Picked up my Girlfriend and drove with a very big smile on my face home  
+Finishing the race was just fantastic and they got even free massage service after the race. Picked up my Girlfriend and drove with a very big smile on my face home 
+
+
 Overall it was a very nice first time experience.
 
