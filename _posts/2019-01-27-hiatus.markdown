@@ -10,5 +10,5 @@ tags: []
 image: wp-content/uploads/2019/01/image.png
 ---
 
-After a long hiatus because of couple of reasons. I will try post some articles more frequently
+After a long hiatus because of couple of reasons, from now on I will try post some articles more frequently.
 
