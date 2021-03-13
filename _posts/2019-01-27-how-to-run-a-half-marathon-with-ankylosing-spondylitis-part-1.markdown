@@ -21,8 +21,7 @@ How I managed to run a half marathon just after 1 year boils down to simple (but
 
 ## The first pillar - diet.
 
-Adjusting my diet, this step was and is crucial. To a certain point, you can thrive on a whole food, plant-based diet. But if you have a autoimmune condition that based on leaky gut and a lot of intolerances because of that you need to repair your gut permeability first. That you can achieve with  
-a plant-based elimination diet and this should be a top priority for you, if you want to get rid of the medicine and live pain free.   
+Adjusting my diet, this step was and is crucial. To a certain point, you can thrive on a whole food, plant-based diet. But if you have a autoimmune condition that based on leaky gut and a lot of intolerances because of that you need to repair your gut permeability first. That you can achieve with a plant-based elimination diet and this should be a top priority for you, if you want to get rid of the medicine and live pain free.
 Just look up the web for the [Paddison program](https://www.paddisonprogram.com/) and you will find a lot of resources. For example there is a lot of free information on [Dr. Klapper's website](https://www.doctorklaper.com) about the program.
 
 ## The second pillar - Daily Exercise
