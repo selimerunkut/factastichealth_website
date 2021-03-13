@@ -11,7 +11,6 @@ tags: []
 image: wp-content/uploads/2020/04/isanbul-marathon-1.jpeg
 ---
 
-[Preview(opens in a new tab)](https://factastichealth.com/?p=8079&preview=true)
 
 Taking a taxi to the Bosphorus bridges foot, roads were closed, thanked the taxi driver and started walking up the roads that are closed to the traffic. Almost wanted to run uphill not o be late for the foto shooting of Tider, the charity organization that I was running for. Indeed I was the first one on the meeting spot and other runners were arriving one by one. We treated and helped each other to organise the meeting place, talked to some of my fellow runners, we took a group picture and then I heard the announcement that the buses, that should carry our bags were leaving in 20 minutes.
 
