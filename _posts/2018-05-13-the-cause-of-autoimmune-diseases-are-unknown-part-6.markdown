@@ -23,6 +23,6 @@ These fats are found for example in chia, hemp,&nbsp;and flax seeds and&nbsp;dar
 
 This dark leafy greens should be consumed daily and one to two tablespoons of seeds can be introduced in the later phases of the diet. ![](https://factastichealth.com/wp-content/uploads/2018/05/flax_chia_hemp-1.jpg) Photo by Delphine Hourlay, Bruno Scramgnon,&nbsp;cheifyc 
 
-A&nbsp;small handful of walnuts, either as whole nuts or mixed as dressings and sauces can also be used as a source of&nbsp;Omega-3. Also,&nbsp;DHA/EPA supplements derived from algae, not fish oil that's&nbsp;probably contaminated with heavy metals like mercury are a good source at the beginning of our elimination diet when seeds and nuts are most problematic for our gut.
+A&nbsp;small handful of walnuts, either as whole nuts or mixed as dressings and sauces can also be used as a source of&nbsp;Omega-3. Also,&nbsp;DHA/EPA supplements derived from algae, not fish oil that's&nbsp;probably contaminated with heavy metals like mercury, are a good source at the beginning of our elimination diet when seeds and nuts are most problematic for our gut.
 
 Gamma (GLA) and Alpha&nbsp;Linolenic Acid (ALA) black currant seed&nbsp;is anOmega-6 fatty acid from which the body makes a potent, natural anti-inflammatory substance called prostaglandin E-1. This substance complements the Omega-3 and can be very beneficial for our inflammatory autoimmune disease. ALA and GLA can be taken as pills or natural from&nbsp;black currant seed oil.
