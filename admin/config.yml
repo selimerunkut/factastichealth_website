@@ -20,7 +20,7 @@ collections:
       name: 'title'
       widget: 'string'
     - label: 'Publish Date'
-      name: 'date',
+      name: 'date'
       widget: 'datetime'
     - label: 'Body'
       name: 'body'
@@ -47,7 +47,7 @@ collections:
       name: 'title'
       widget: 'string'
     - label: 'Publish Date'
-      name: 'date',
+      name: 'date'
       widget: 'datetime'
     - label: 'Body'
       name: 'body'
