@@ -7,7 +7,7 @@ layout: post
 title: The Cause of Autoimmune Diseases are Unknown - Part 3
 id: 1024
 tags: []
-image: wp-content/uploads/2018/04/fire-1222653_1920.jpg
+image: /wp-content/uploads/2018/04/fire-1222653_1920.jpg
 ---
 
 ## What is most likely causing our leaky gut?

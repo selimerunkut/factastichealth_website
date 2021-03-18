@@ -9,7 +9,7 @@ layout: post
 title: Ironman 70.3 Barcelona Calella - Part 2
 id: 8063
 tags: []
-image: wp-content/uploads/2020/04/20190517_133542-scaled.jpg
+image: /wp-content/uploads/2020/04/20190517_133542-scaled.jpg
 ---
 
 Thursday night Flight from Düsseldorf to Barcelona was delayed about 3-4 hours and instead of arriving at 10 pm on thursday there, the plane landed late night after 12am on friday, fortunately the transportation company arranging the vehicle to Calella was still operating. After a short wait in barcelona airport, with other groups from different part of the world, like the USA our bus arrived and we started our trip to Calella.

@@ -7,7 +7,7 @@ layout: post
 title: The Cause of Autoimmune Diseases are Unknown - Part 1
 id: 1012
 tags: []
-image: wp-content/uploads/2018/04/allergens-2400px.png
+image: /wp-content/uploads/2018/04/allergens-2400px.png
 ---
 
 And what you eat or supplement will not make any difference at all.

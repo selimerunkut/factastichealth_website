@@ -7,7 +7,7 @@ layout: post
 title: The Cause of Autoimmune Diseases are Unknown - Part 5
 id: 1051
 tags: []
-image: wp-content/uploads/2018/05/anatomy-160524.png
+image: /wp-content/uploads/2018/05/anatomy-160524.png
 ---
 
 ## Heal your gut with these foods

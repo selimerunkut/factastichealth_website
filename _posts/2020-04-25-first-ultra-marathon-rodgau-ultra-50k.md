@@ -9,7 +9,7 @@ layout: post
 title: First Ultra Marathon - Rodgau Ultra 50k
 id: 8156
 tags: []
-image: wp-content/uploads/2020/04/PIXNIO-334180-scaled.jpeg
+image: /wp-content/uploads/2020/04/PIXNIO-334180-scaled.jpeg
 ---
 
 Running 6 hours with temperatures 0-4 C ... 🥶

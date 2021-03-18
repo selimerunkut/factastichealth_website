@@ -7,7 +7,7 @@ layout: post
 title: Try out new things to get better, If it does not Work, It is not a Failure
 id: 1057
 tags: []
-image: wp-content/uploads/2018/05/adventure-background-blur-891252.jpg
+image: /wp-content/uploads/2018/05/adventure-background-blur-891252.jpg
 ---
 
 ## Not trying is a failure

@@ -7,7 +7,7 @@ layout: post
 title: Hormonal Reactions Triggered by Cold Showers
 id: 982
 tags: []
-image: wp-content/uploads/2018/04/adrenaline-872345_1920.png
+image: /wp-content/uploads/2018/04/adrenaline-872345_1920.png
 ---
 
 ## Booom, the cold water hits your body, what happens next?

@@ -7,7 +7,7 @@ layout: post
 title: Why is this happening to me? The autoimmune culprit!
 id: 842
 tags: []
-image: wp-content/uploads/2018/03/gratisography.jpg
+image: /wp-content/uploads/2018/03/gratisography.jpg
 ---
 
 # The symptoms of the autoimmune disorders aren't visible at first.

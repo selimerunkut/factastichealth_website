@@ -14,7 +14,7 @@ tags:
 - arthritis
 - spondylitis
 - autoimmune disease
-image: wp-content/uploads/2017/11/herbicide-587589_1920.jpg
+image: /wp-content/uploads/2017/11/herbicide-587589_1920.jpg
 ---
 
 [Glyphosate](https://ec.europa.eu/food/plant/pesticides/glyphosate_en) is a pesticide that is used in agriculture, horticulture and in some non-cultivated areas to control plants. Regardless of the fact that our health is under threat, the human exposure to this pesticide is increasing as [the Environmental Sciences Europe study in 2016](https://enveurope.springeropen.com/articles/10.1186/s12302-016-0070-0) presents. It leaves incremental residues in the [air](http://onlinelibrary.wiley.com/doi/10.1002/etc.431/abstract), [water](http://onlinelibrary.wiley.com/doi/10.1002/ps.1512/abstract) and [soil](https://www.soilassociation.org/our-campaigns/not-in-our-bread/) with probable adverse effects on environment and [ecosystem](https://www.frontiersin.org/articles/10.3389/fpubh.2016.00148/full) too.

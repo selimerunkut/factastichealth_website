@@ -7,7 +7,7 @@ layout: post
 title: Our Depressed Brain - The Role of Our Immune System and Gut
 id: 1107
 tags: []
-image: wp-content/uploads/2018/05/brain-3168269_1920.png
+image: /wp-content/uploads/2018/05/brain-3168269_1920.png
 ---
 
 ## Gastrointestinal depression is that even a thing?

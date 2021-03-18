@@ -7,7 +7,7 @@ layout: post
 title: Night routine, do you have one?
 id: 950
 tags: []
-image: wp-content/uploads/2018/04/john-fowler-330787-unsplash.jpg
+image: /wp-content/uploads/2018/04/john-fowler-330787-unsplash.jpg
 ---
 
 ## I have definitely&nbsp;one and it really helps me a lot also in dealing with stress and fatigue.

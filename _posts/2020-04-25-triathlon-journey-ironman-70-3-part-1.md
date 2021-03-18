@@ -9,7 +9,7 @@ layout: post
 title: Triathlon Journey - Ironman 70.3 Part 1
 id: 8161
 tags: []
-image: wp-content/uploads/2020/04/piqsels.com-id-odgrw.jpg
+image: /wp-content/uploads/2020/04/piqsels.com-id-odgrw.jpg
 ---
 
 What does 70.3 mean: 1.2-mile (1.9 km) swim, a 56-mile (90 km) bike ride, and a 13.1-mile (21.1 km) run = 70.3 miles or 113 km

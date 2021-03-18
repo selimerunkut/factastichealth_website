@@ -8,7 +8,7 @@ layout: post
 title: How to Run a Half Marathon with Ankylosing Spondylitis PART 2
 id: 1188
 tags: []
-image: wp-content/uploads/2019/01/action-athlete-athletics-618612.jpg
+image: /wp-content/uploads/2019/01/action-athlete-athletics-618612.jpg
 ---
 
 ## Back to the marathon day...

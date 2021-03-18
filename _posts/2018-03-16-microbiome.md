@@ -8,7 +8,7 @@ layout: post
 title: Microbiome
 id: 694
 tags: []
-image: wp-content/uploads/2018/03/microbiome_pixabay.png
+image: /wp-content/uploads/2018/03/microbiome_pixabay.png
 ---
 
 What is the humane microbiome? Scientists have been working to specify the definition of the human microbiome and the microbiota&nbsp;that can often be used interchangeably. The&nbsp;&nbsp;[microbiome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426293/)&nbsp;is defined as the catalog of the microbial taxa associated microbes and their genes whereas microbiota as the [microbial taxa composed of bacteria, yeasts, fungi, viruses.](http://www.sciencedirect.com/science/article/pii/S1590865815004144)&nbsp;[The ratio](http://www.cell.com/cell/fulltext/S0092-8674(16)00053-2?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867416000532%3Fshowall%3Dtrue) of bacteria in the human body &nbsp;to the number of human cells ([≈37 trillion](http://www.tandfonline.com/doi/abs/10.3109/03014460.2013.807878?journalCode=iahb20))&nbsp;is estimated to be 1.3. If we have more of these microorganisms than we have our own human cells and carry around of them [about 0.2 kg](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991899/) in our body, what is their relevance to our health and disease?

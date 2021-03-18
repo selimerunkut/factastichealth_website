@@ -7,7 +7,7 @@ layout: post
 title: My "Feeling the Best" Morning Routine part 1
 id: 900
 tags: []
-image: wp-content/uploads/2018/03/backlit-clouds-dawn-415380.jpg
+image: /wp-content/uploads/2018/03/backlit-clouds-dawn-415380.jpg
 ---
 
 ## Why is a morning routine important?

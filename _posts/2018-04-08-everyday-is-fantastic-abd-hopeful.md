@@ -7,7 +7,7 @@ layout: post
 title: Everyday is Fantastic and Hopeful
 id: 970
 tags: []
-image: wp-content/uploads/2018/04/balance-business-cobblestone-279470.jpg
+image: /wp-content/uploads/2018/04/balance-business-cobblestone-279470.jpg
 ---
 
 ## Do you know why?

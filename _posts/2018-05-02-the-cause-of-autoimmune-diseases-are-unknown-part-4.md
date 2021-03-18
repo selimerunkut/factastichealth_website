@@ -7,7 +7,7 @@ layout: post
 title: The Cause of Autoimmune Diseases are Unknown - Part 4
 id: 1041
 tags: []
-image: wp-content/uploads/2018/05/unhealthy_foods_merged.jpg
+image: /wp-content/uploads/2018/05/unhealthy_foods_merged.jpg
 ---
 
 ## Here are some of the bad boys that cause inflammation.

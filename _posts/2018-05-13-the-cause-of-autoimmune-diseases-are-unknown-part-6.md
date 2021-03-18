@@ -7,7 +7,7 @@ layout: post
 title: The Cause of Autoimmune Diseases are Unknown - Part 6
 id: 1065
 tags: []
-image: wp-content/uploads/2018/05/carrot-cooking-cutting-board-60123.jpg
+image: /wp-content/uploads/2018/05/carrot-cooking-cutting-board-60123.jpg
 ---
 
 ## Seasonings and Good Fats

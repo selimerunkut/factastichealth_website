@@ -7,7 +7,7 @@ layout: post
 title: Hypothermia Prevention During Cold Showers
 id: 960
 tags: []
-image: wp-content/uploads/2018/04/animals-beak-birds-914463.jpg
+image: /wp-content/uploads/2018/04/animals-beak-birds-914463.jpg
 ---
 
 ## Our goal is to stay warm during and after the cold showers.

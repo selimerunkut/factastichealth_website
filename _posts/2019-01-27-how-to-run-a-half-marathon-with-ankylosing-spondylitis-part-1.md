@@ -8,7 +8,7 @@ layout: post
 title: How to Run a Half Marathon with Ankylosing Spondylitis PART 1
 id: 1123
 tags: []
-image: wp-content/uploads/2019/01/action-athlete-athletics-618612.jpg
+image: /wp-content/uploads/2019/01/action-athlete-athletics-618612.jpg
 ---
 
 First of all, it was a wonderful day in Duisburg, not that hot and cold. This would be my first long distance run over 21 km.   

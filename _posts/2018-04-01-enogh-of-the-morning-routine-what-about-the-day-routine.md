@@ -7,7 +7,7 @@ layout: post
 title: Enough of the morning routine. What about the day routine?
 id: 945
 tags: []
-image: wp-content/uploads/2018/04/rawpixel-com-604750-unsplash.jpg
+image: /wp-content/uploads/2018/04/rawpixel-com-604750-unsplash.jpg
 ---
 
 ## Of course, as the good autoimmune soldier, I have also a da(il)y routine.

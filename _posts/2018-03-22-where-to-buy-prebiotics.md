@@ -7,7 +7,7 @@ layout: post
 title: Where to buy prebiotics?
 id: 817
 tags: []
-image: wp-content/uploads/2018/03/Prebiotic_Mike_Kenneally_Thomas_Martinsen_Monika_Grabkowska_Unsplash-.jpg
+image: /wp-content/uploads/2018/03/Prebiotic_Mike_Kenneally_Thomas_Martinsen_Monika_Grabkowska_Unsplash-.jpg
 ---
 
 # You do not need to buy probiotic supplements!

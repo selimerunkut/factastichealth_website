@@ -7,7 +7,7 @@ layout: post
 title: Eat your healthy salad with every meal
 id: 819
 tags: []
-image: wp-content/uploads/2018/03/pexels-photo-102123.jpeg
+image: /wp-content/uploads/2018/03/pexels-photo-102123.jpeg
 ---
 
 # Oh yeah, salad again!

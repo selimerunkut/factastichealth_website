@@ -7,7 +7,7 @@ layout: post
 title: Plant-Based Autoimmune Protocol is an Intensive Lifestyle Change
 id: 998
 tags: []
-image: wp-content/uploads/2018/04/clouds-fashion-free-103123.jpg
+image: /wp-content/uploads/2018/04/clouds-fashion-free-103123.jpg
 ---
 
 ## Change your lifestyle and get your autoimmune disease under control.

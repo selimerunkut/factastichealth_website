@@ -7,7 +7,7 @@ layout: post
 title: Who is Controlling Who - The Gut Brain Axis
 id: 1070
 tags: []
-image: wp-content/uploads/2018/05/blurred-background-dolls-fashion-935019.jpg
+image: /wp-content/uploads/2018/05/blurred-background-dolls-fashion-935019.jpg
 ---
 
 ## The puppet master(s)?

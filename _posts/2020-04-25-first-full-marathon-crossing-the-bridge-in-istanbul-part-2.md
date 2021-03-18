@@ -8,7 +8,7 @@ layout: post
 title: First Full Marathon - Crossing the bridge in Istanbul - Part 2
 id: 8079
 tags: []
-image: wp-content/uploads/2020/04/isanbul-marathon-1.jpeg
+image: /wp-content/uploads/2020/04/isanbul-marathon-1.jpeg
 ---
 
 

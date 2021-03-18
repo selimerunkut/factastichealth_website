@@ -7,7 +7,7 @@ layout: post
 title: Yoga to Tame the Beast that Attacks Your Joints
 id: 992
 tags: []
-image: wp-content/uploads/2018/04/backlit-balance-beach-268134.jpg
+image: /wp-content/uploads/2018/04/backlit-balance-beach-268134.jpg
 ---
 
 ## What kind of exercise helps with autoimmune diseases that attack the joints?

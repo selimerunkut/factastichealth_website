@@ -7,7 +7,7 @@ layout: post
 title: The Power of Fasting and Why am I Doing It
 id: 987
 tags: []
-image: wp-content/uploads/2018/04/belly-3186730_1920.jpg
+image: /wp-content/uploads/2018/04/belly-3186730_1920.jpg
 ---
 
 ## I know, Fasting is not an easy process, just simple. Let me tell you my personal&nbsp;experience.

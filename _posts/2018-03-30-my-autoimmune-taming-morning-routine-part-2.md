@@ -7,7 +7,7 @@ layout: post
 title: My "Feeling the Best" Morning Routine part 2 – Cold Showers in Detail
 id: 916
 tags: []
-image: wp-content/uploads/2018/03/blair-fraser-21140-unsplash.jpg
+image: /wp-content/uploads/2018/03/blair-fraser-21140-unsplash.jpg
 ---
 
 ### As mentioned in my [previous post](https://factastichealth.com/my-autoimmune-taming-morning-routine)&nbsp;my morning routine involves also taking cold showers, let me explain to you why this helped me a lot to tame the beast...

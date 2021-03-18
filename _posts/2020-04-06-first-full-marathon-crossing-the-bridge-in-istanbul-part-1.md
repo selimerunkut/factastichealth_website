@@ -8,7 +8,7 @@ layout: post
 title: First Full Marathon - Crossing the bridge in Istanbul - Part 1
 id: 8058
 tags: []
-image: wp-content/uploads/2020/04/isanbul-marathon.jpeg
+image: /wp-content/uploads/2020/04/isanbul-marathon.jpeg
 ---
 
 Since the beginning of my autoimmune condition and after my doctor's statement that a lot of things will be different from that point on; that there is no cure and that I was probably bound to live with my symptoms for the rest of my life, triggered a lot of different feelings and thought. One of them was the determination to do something extraordinary, something I thought, I was not able to do, even while being a "healthy" person.

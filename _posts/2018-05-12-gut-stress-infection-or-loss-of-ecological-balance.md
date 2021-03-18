@@ -7,7 +7,7 @@ layout: post
 title: Gut Stress - Infection or Loss of Ecological Balance
 id: 1077
 tags: []
-image: wp-content/uploads/2018/05/mental-health-2313426.png
+image: /wp-content/uploads/2018/05/mental-health-2313426.png
 ---
 
 ## How is it possible that our gut gets into stress?
