@@ -18,7 +18,7 @@ I had already informed in Düsseldorf my landlady in Calella that my flight was 
 
 The next day woke up pretty early after a late night sleep, must have been the excitement. The weather was colder than expected. First thing in my mind was to visit the Ironman Village and take my racing gear, like BIP number, timing chip, swimming cap and so on. I took the road through Calella to have a glimpse at the town. It was small and very beautiful with a welcoming atmosphere. Stopped at on of the juice bars and ordered a smoothie. A friendly service like I was used to in Spain, the day was starting nice.
 
-The Ironman village was more then one and a half kilometers away from the airbnb that I rented. Calella’s old town about 700 meters. Walked the rest of the road from the beach side with a nice view of the mediterranean sea. Roadblocks for the race parkour started appearing and my excitement also increasing with every step. Arriving at the Ironman Village small shops starting to appear selling all kinds of triathlon stuff from mountable nutrition kits to spare tires, tricots, helmets. They even had a high end bike rent shop with time trial bikes.&nbsp;
+The Ironman village was more then one and a half kilometers away from the airbnb that I rented. Calella’s old town about 700 meters. Walked the rest of the road from the beach side with a nice view of the mediterranean sea. Roadblocks for the race parkour started appearing and my excitement also increasing with every step. Arriving at the Ironman Village small shops starting to appear selling all kinds of triathlon stuff from mountable nutrition kits to spare tires, tricots, helmets. They even had a high end bike rent shop with time trial bikes. 
 
 ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133542-scaled.jpg)
 
@@ -26,14 +26,14 @@ Took some photos of the Village and going past the shops found the registration 
 
 ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133222-scaled.jpg)
 
-There was still time for the english race briefing so again started looking at the shops before the registration tent and decided to&nbsp; buy a bandana for factasticgirl and co2 cartridge for a faster repair if something would happen to the bike. Speaking of which, I decided while preparing for the race not to transport my bike and instead to rent a road bike for the race in Calella. After searching through a few companies I decided to rent from Medbikes.
+There was still time for the english race briefing so again started looking at the shops before the registration tent and decided to  buy a bandana for factasticgirl and co2 cartridge for a faster repair if something would happen to the bike. Speaking of which, I decided while preparing for the race not to transport my bike and instead to rent a road bike for the race in Calella. After searching through a few companies I decided to rent from Medbikes.
 
 Infomed Medbikes that I wanted to test the bike after the race briefing and enter the tent where the race briefing would take place. In the tent there was already energizing music playing and a lot of athletes were sitting at long tables and waiting for the briefing. Walked to the front, asked if a the seat was still available and relaxed for a few moments before the race briefing. I had already read the Ironman Race rules beforehand but still there was new information and the race director who also was the presenter, talked about the race courses, the steep hills, small mountains where two of the big climbs were located while riding. The Swim course and finally the running course. Gave a lot of tips and explained again some of the important racing rules: mobile phone are not allowed, no slipstreaming while riding and so on.  
 Overall visiting the Ironman village was a blast.
 
-After the briefing I walked to the Medbike’s temporary shop to check out my rented bike and test drive it. Took my rented bike from the Medbike shop and drove a few hundred meters to test its gear and overall feeling. It was a more high end bike then what I was riding in Düsseldorf and it also felt like it.&nbsp;
+After the briefing I walked to the Medbike’s temporary shop to check out my rented bike and test drive it. Took my rented bike from the Medbike shop and drove a few hundred meters to test its gear and overall feeling. It was a more high end bike then what I was riding in Düsseldorf and it also felt like it. 
 
-&nbsp;&nbsp;&nbsp; ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-scaled.jpg)
+    ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-scaled.jpg)
 
 After riding it for a few minutes and very satisfied with my bike, explained the shop that the I will take the bike tomorrow to bring it to the transition area. Left with a big smile on my face, after everything went very smoothly.  
   

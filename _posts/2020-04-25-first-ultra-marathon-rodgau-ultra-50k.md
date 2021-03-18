@@ -18,7 +18,7 @@ Running 6 hours with temperatures 0-4 C ... 🥶
 
 The 2 liter smoothie that I had prepared before my trip to Rodgau and drank in the early morning hours of the race kept me going for 50 km ![Preparing a smoothie](https://factastichealth.com/wp-content/uploads/2020/04/DSC_0004-scaled.jpg)
 
-After the race, I could no walk to the parking lot, to my car and needed a lift.&nbsp;  
+After the race, I could no walk to the parking lot, to my car and needed a lift.   
   
 To be continued...
 

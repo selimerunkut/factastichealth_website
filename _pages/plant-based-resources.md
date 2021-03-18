@@ -122,5 +122,5 @@ footer: true
 - [Vegan Doktorlar](https://www.kolayvegan.com/vegandoktorlar)
 - [Vegan Müzik Röportaj](http://www.veganlogic.net/)
 
-&nbsp;
+ 
 

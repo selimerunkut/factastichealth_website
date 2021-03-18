@@ -28,7 +28,7 @@ Adrenaline: It makes you ready to fight or flight.
 
 [Beta-Endorphin](https://en.wikipedia.org/wiki/Beta-Endorphin) modulates pain perception.
 
-Also&nbsp;to face the "threat"
+Also to face the "threat"
 
 - Liver and pancreas start making more glucose.
 - Muscles increase their uptake of glucose in order to have more energy.

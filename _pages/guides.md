@@ -16,6 +16,6 @@ order: 10
 
 #### [Microbiome Checklist](https://factastichealth.com/wp-content/uploads/2020/04/Microbiome_Checklist.pdf)
 
-&nbsp;
+ 
 
 ###### Disclaimer: All information in these Guides are based on our personal experience, reading, learning from scientific literature and is not medical advice. Before making any life changes, you must speak to your _ **Doctor** _ and get the approval that this process is going to be ok for you with the particular medications you are on and your unique health circumstances.

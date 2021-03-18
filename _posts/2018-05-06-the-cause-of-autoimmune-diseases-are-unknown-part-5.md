@@ -14,20 +14,20 @@ image: /wp-content/uploads/2018/05/anatomy-160524.png
 
 It's important to heal our gut as fast as possible and the solution to that is to reduce gut damaging medication and consume foods that are easy on the digestion and promote gut health. Some of this foods are:
 
-Cabbage &&nbsp;Cabbage juice.
+Cabbage & Cabbage juice.
 
 Pseudo Grains like Amaranth, Quinoa, Buckwheat.
-Sweet Potato, Carrots,&nbsp;Onion,&nbsp;Garlic,&nbsp;Ginger
+Sweet Potato, Carrots, Onion, Garlic, Ginger
 Seaweeds,
 Celery Sticks, Cucumber, and juices of them.
-All leafy grains like&nbsp;Kale, Lettuce, Rocket,&nbsp;Swish chard and so on.
+All leafy grains like Kale, Lettuce, Rocket, Swish chard and so on.
 
-After your gut starts to heal you can introduce more foods like&nbsp;Basmati rice,&nbsp;Pumpkin,&nbsp;Millet,&nbsp;Cauliflower,&nbsp;Zucchini &nbsp;Cantaloupe, Okra and so on.
+After your gut starts to heal you can introduce more foods like Basmati rice, Pumpkin, Millet, Cauliflower, Zucchini  Cantaloupe, Okra and so on.
 
-And a lot more foods based on your gut health level and elimination diet progress. Check out it out for more information&nbsp;here.
+And a lot more foods based on your gut health level and elimination diet progress. Check out it out for more information here.
 
 Also be careful with seasoning your food, keep it to a minimum, as some spices like cayenne can promote inflammatory reactions.
 
-A pinch of salt, really not a spoon full a few&nbsp;crumbles ![](https://factastichealth.com/wp-content/uploads/2018/05/14440518720_ce357f93c0_b.jpg)to your vegetables is fine will help you to make delicious meals with the baseline foods mentioned above. A word of caution&nbsp;[high-salt diets can turn on genes that promote autoimmune processes in our body](https://www.ncbi.nlm.nih.gov/pubmed/26485281).
+A pinch of salt, really not a spoon full a few crumbles ![](https://factastichealth.com/wp-content/uploads/2018/05/14440518720_ce357f93c0_b.jpg)to your vegetables is fine will help you to make delicious meals with the baseline foods mentioned above. A word of caution [high-salt diets can turn on genes that promote autoimmune processes in our body](https://www.ncbi.nlm.nih.gov/pubmed/26485281).
 
-What are the next steps after our inflammation has improved? We discuss that in [part 6](https://factastichealth.com/the-cause-of-autoimmune-diseases-are-unknown-part-6) of our series. &nbsp;
+What are the next steps after our inflammation has improved? We discuss that in [part 6](https://factastichealth.com/the-cause-of-autoimmune-diseases-are-unknown-part-6) of our series.  

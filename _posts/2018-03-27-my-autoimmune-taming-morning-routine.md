@@ -20,7 +20,7 @@ After that comes a green smoothie of mixed salad, carrots, curcumin and ginger r
 
 In between the celery stick juice and the smoothie, I do my breathing exercises and some stretching that gives me an uplift. After this, a few minutes meditation and you feel like your mind is ready for anything that the day will throw at you.
 
-Then comes the hard part, the cold shower. You can read about that in my post&nbsp;[My Autoimmune Taming Morning Routine part 2](https://factastichealth.com/my-autoimmune-taming-morning-routine-part-2)
+Then comes the hard part, the cold shower. You can read about that in my post [My Autoimmune Taming Morning Routine part 2](https://factastichealth.com/my-autoimmune-taming-morning-routine-part-2)
 
 And this kind of routines did not make my life more boring or dull. It was exactly the opposite I had a clearer mind and more time to do the things that I liked and finish projects more easily.
 

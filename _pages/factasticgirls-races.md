@@ -9,7 +9,7 @@ tags: []
 footer: true
 ---
 
-36. Vienna City Marathon - Relay&nbsp;
+36. Vienna City Marathon - Relay 
 
 Date: 07.04.2019  
 Distance: 6 km  
@@ -18,7 +18,7 @@ Location: Vienna - Austria
 Official Result: Finished  
 Start Number: 3508
 
-&nbsp;
+ 
 
 Weir Venloop Half Marathon
 

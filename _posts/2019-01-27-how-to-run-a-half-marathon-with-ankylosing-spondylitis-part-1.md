@@ -27,7 +27,7 @@ Just look up the web for the [Paddison program](https://www.paddisonprogram.com/
 ## The second pillar - Daily Exercise
 
 Some of the things that I was able to do in the beginning without much pain were  
-Yoga: This is really essential&nbsp;for your joint mobility in time (3-6 months) I was more flexible than before my autoimmune disease.   
+Yoga: This is really essential for your joint mobility in time (3-6 months) I was more flexible than before my autoimmune disease.   
 Trampoline: This one activates your lymphatic system, like walking or running activities and you can do it indoors and we all know how you do not want to go out to the cold weather with inflamed and aching joints.  
 "As the field of lymphatic research progresses it is evident that the lymphatic system plays a major but under-recognized role in many diseases..."[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397133/)
 

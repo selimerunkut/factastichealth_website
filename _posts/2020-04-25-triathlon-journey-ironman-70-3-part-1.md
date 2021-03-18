@@ -25,7 +25,7 @@ It was a fun adventure; started training in February, tossed all the recommended
 - Friday: Running
 - Saturday (Bonus): Long Ride, at least 60km
 
-Did I mention that I missed the entry to Ironman Luxemburg were I had the chance to do it with a college friend?&nbsp; Frustrated I just signed up for Barcelona. Or so I thought because the 70.3 edition was done in Calella, a 50 km distant town that had nothing to do with Barcelona.
+Did I mention that I missed the entry to Ironman Luxemburg were I had the chance to do it with a college friend?  Frustrated I just signed up for Barcelona. Or so I thought because the 70.3 edition was done in Calella, a 50 km distant town that had nothing to do with Barcelona.
 
 To be continued...
 

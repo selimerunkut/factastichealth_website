@@ -10,7 +10,7 @@ id: 978
 tags: []
 ---
 
-## Cold showers trigger our&nbsp;Fight or Flight response.
+## Cold showers trigger our Fight or Flight response.
 
 The sympathetic branch of our autonomic nervous system is responsible for our “fight or flight” response.
 
