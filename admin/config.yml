@@ -1,7 +1,7 @@
 # https://www.netlifycms.org/docs/jekyll/
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: fauno/factastichealth_website
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
