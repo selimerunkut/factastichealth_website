@@ -25,4 +25,5 @@ Endometriosis -which I refer to as “the loud silent [disease](https://www.ncbi
 - Elimination of [dioxin](https://www.ncbi.nlm.nih.gov/pubmed/19744969) ([avoiding fish](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1533232/), [avoiding milk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5234792/))
 - [Consistent physical activity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.526.7367&rep=rep1&type=pdf), and
 - [Psychotherapy and sexual therapy](https://www.ncbi.nlm.nih.gov/pubmed/28496368)
+
 It seems that the dietary treatment of endometriosis with lifestyle changes is based on the facts, and offers only positive side effects.

@@ -11,9 +11,18 @@ image: wp-content/uploads/2018/05/anatomy-160524.png
 ---
 
 ## Heal your gut with these foods
+
 It's important to heal our gut as fast as possible and the solution to that is to reduce gut damaging medication and consume foods that are easy on the digestion and promote gut health. Some of this foods are:
 
-Cabbage &&nbsp;Cabbage juice.Pseudo Grains like Amaranth, Quinoa, Buckwheat.Sweet Potato, Carrots,&nbsp;Onion,&nbsp;Garlic,&nbsp;GingerSeaweeds,Celery Sticks, Cucumber, and juices of them.All leafy grains like&nbsp;Kale, Lettuce, Rocket,&nbsp;Swish chard and so on.After your gut starts to heal you can introduce more foods like&nbsp;Basmati rice,&nbsp;Pumpkin,&nbsp;Millet,&nbsp;Cauliflower,&nbsp;Zucchini &nbsp;Cantaloupe, Okra and so on.
+Cabbage &&nbsp;Cabbage juice.
+
+Pseudo Grains like Amaranth, Quinoa, Buckwheat.
+Sweet Potato, Carrots,&nbsp;Onion,&nbsp;Garlic,&nbsp;Ginger
+Seaweeds,
+Celery Sticks, Cucumber, and juices of them.
+All leafy grains like&nbsp;Kale, Lettuce, Rocket,&nbsp;Swish chard and so on.
+
+After your gut starts to heal you can introduce more foods like&nbsp;Basmati rice,&nbsp;Pumpkin,&nbsp;Millet,&nbsp;Cauliflower,&nbsp;Zucchini &nbsp;Cantaloupe, Okra and so on.
 
 And a lot more foods based on your gut health level and elimination diet progress. Check out it out for more information&nbsp;here.
 

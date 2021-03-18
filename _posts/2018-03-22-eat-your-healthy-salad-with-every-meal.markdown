@@ -12,10 +12,7 @@ image: wp-content/uploads/2018/03/pexels-photo-102123.jpeg
 
 # Oh yeah, salad again!
 
-The one thing that worked miracles for my autoimmune disease was a big
-salad with every meal. It really doesn't matter if you have Hashimoto,
-diabetes (upward type 2), rheumatoid arthritis, etc... Salads and leafy
-greens will help you heal your gut and get rid of your symptoms. When
+Salads and leafy greens will help you heal your gut and get rid of your symptoms. When
 I say big salad, I mean a big salad. If other people are not shocked or
 not commenting about size of our salads than we are not doing it
 right. Here are some examples footage from my meals.
