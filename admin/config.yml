@@ -1,0 +1,64 @@
+# https://www.netlifycms.org/docs/jekyll/
+backend:
+  name: git-gateway
+  branch: master
+media_folder: 'assets/uploads'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+    - label: 'Layout'
+      name: 'layout'
+      widget: 'hidden'
+      default: 'post'
+    - label: 'Title'
+      name: 'title'
+      widget: 'string'
+    - label: 'Publish Date'
+      name: 'date',
+      widget: 'datetime'
+    - label: 'Body'
+      name: 'body'
+      widget: 'markdown'
+    - label: 'Categories'
+      name: 'categories'
+      widget: 'list'
+    - label: 'Tags'
+      name: 'tags'
+      widget: 'list'
+  - name: 'pages'
+    label: 'Pages'
+    folder: '_pages/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+    - label: 'Layout'
+      name: 'layout'
+      widget: 'hidden'
+      default: 'page'
+    - label: 'Title'
+      name: 'title'
+      widget: 'string'
+    - label: 'Publish Date'
+      name: 'date',
+      widget: 'datetime'
+    - label: 'Body'
+      name: 'body'
+      widget: 'markdown'
+    - label: 'Categories'
+      name: 'categories'
+      widget: 'list'
+    - label: 'Tags'
+      name: 'tags'
+      widget: 'list'
+    - label: 'Appears on footer'
+      name: 'footer'
+      widget: 'boolean'
+      default: false
