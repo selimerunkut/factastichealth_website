@@ -16,6 +16,12 @@ collections:
       name: 'layout'
       widget: 'hidden'
       default: 'post'
+    - label: 'Image'
+      name: 'image'
+      widget: 'image'
+      allow_multiple: false
+      media_library:
+        allow_multiple: false
     - label: 'Title'
       name: 'title'
       widget: 'string'
