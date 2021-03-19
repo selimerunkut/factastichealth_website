@@ -1,0 +1,18 @@
+text: Share
+icon: share-alt
+items:
+  - title: Share
+    url: "https://www.facebook.com/sharer/sharer.php?u=%url&amp;t=%title%0A%0A%description"
+    icon: facebook
+  - title: Tweet
+    url: "https://twitter.com/intent/tweet?url=%url&amp;text=%title%0A%0A%description&amp;hashtags=%tags"
+    icon: twitter
+  - title: Share
+    url: "https://api.whatsapp.com/send?text=%title%0A%0A%description%0A%0A%url"
+    icon: whatsapp
+  - title: Save
+    url: "https://www.pinterest.com/pin/create/link/?url=%url&media=%media&description=%description"
+    icon: pinterest
+  - title: Donate
+    url: "bitcoin:3L4jPVLrsLN87endFWSXLrgSizSa7Cvc4p?message=Factastic"
+    icon: bitcoin

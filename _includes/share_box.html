@@ -1,0 +1,5 @@
+<div class="share-box d-flex flex-column flex-md-row mb-3">
+  {% for share in site.data.share.items %}
+    {% include share.html share=share url=include.url title=include.title description=include.description media=include.image %}
+  {% endfor %}
+</div>

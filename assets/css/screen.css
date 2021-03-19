@@ -894,3 +894,33 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.share-icon {
+    margin-right: 10px;
+}
+
+.share-btn {
+    border-radius: 0px;
+    padding: 0px 10px; 
+    width: 100%;
+}
+
+.facebook-btn {
+    background-color: #3b5998;
+}
+
+.twitter-btn {
+    background-color: #1DA1F2;
+}
+
+.whatsapp-btn {
+    background-color: #4fce5d;
+}
+
+.pinterest-btn {
+    background-color: #E60023;
+}
+
+.bitcoin-btn {
+    background-color: #f7931a;
+}

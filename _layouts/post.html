@@ -12,7 +12,6 @@ post_class: post-template
 
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
-            {% include share.html %}
         </div>
 
         <!-- Post -->
@@ -119,6 +118,10 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
+
+            <!--Share-->
+            {% include share_box.html url=page.url title=page.title description=page.description media=page.image %}
+            <!--End Share-->
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">

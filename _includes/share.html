@@ -1,34 +1,24 @@
-<div class="share sticky-top sticky-top-offset">
-    <p>
-        Share
-    </p>
-    <ul>
-        <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                <i class="fab fa-twitter"></i>
-            </a>
-        </li>
+{% capture url %}{{ site.url }}{{ include.url }}{% endcapture %}
 
-        <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
-                <i class="fab fa-facebook-f"></i>
-            </a>
-        </li>
-
-        <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
-                <i class="fab fa-linkedin-in"></i>
-            </a>
-        </li>
-
-    </ul>
-    {% if page.comments != false and site.disqus %}
-    <div class="sep">
-    </div>
-    <ul>
-        <li>
-        <a class="small smoothscroll" href="#disqus_thread"></a>
-        </li>
-    </ul>
+{% unless include.share.url == '%url' %}
+  {% assign url = url | default: '' | cgi_escape %}
+{% endunless %}
+{% assign title = include.title | default: '' | cgi_escape %}
+{% assign description = include.description | default: '' | cgi_escape %}
+{% assign tags = include.tags | join: ',' | default: '' | cgi_escape %}
+{% assign media = include.media | prepend: site.url | cgi_escape %}
+<div class="btn share-btn {{include.share.icon}}-btn mb-2 mb-md-0 ml-md-1 mr-md-1">
+    <a
+    {% if include.share.url == '%url' %}
+        download
+    {% else %}
+        target="_blank"
     {% endif %}
+    rel="noopener nofollow noreferrer"
+    title="{{ include.share.title }}"
+    class="d-flex text-white text-lowercase align-items-center justify-content-center"
+    href="{{ include.share.url | replace: '%url', url | replace: '%title', title | replace: '%description', description | replace: '%tags', tags | replace: '%media', media }}">
+    <i class="share-icon fab fa-{{ include.share.icon }}"></i>
+    <span>{{ include.share.title }}</span>
+    </a>
 </div>
