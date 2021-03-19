@@ -33,7 +33,7 @@ Overall visiting the Ironman village was a blast.
 
 After the briefing I walked to the Medbike’s temporary shop to check out my rented bike and test drive it. Took my rented bike from the Medbike shop and drove a few hundred meters to test its gear and overall feeling. It was a more high end bike then what I was riding in Düsseldorf and it also felt like it. 
 
-    ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-scaled.jpg)
+![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_145120-scaled.jpg)
 
 After riding it for a few minutes and very satisfied with my bike, explained the shop that the I will take the bike tomorrow to bring it to the transition area. Left with a big smile on my face, after everything went very smoothly.  
   

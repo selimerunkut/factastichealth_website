@@ -13,11 +13,11 @@ image: /wp-content/uploads/2018/05/brain-3168269_1920.png
 ## Gastrointestinal depression is that even a thing?
 Change or loss of mucosal tolerance causes an up or down regulation of key immune responses. These changes are related to problems with the gastrointestinal immune system. Proinflammatory chemicals are introduced into our body and result in the long term a chronic inflammatory conditions. This can cause autoimmune diseases, allergy, cancer, and depression.
 
-[Some depression types can be traced back to a set of symptoms caused by a hyperactive immune system's inflammatory responses](https://www.ncbi.nlm.nih.gov/pubmed/12401468).
+[Some depression types can be traced back to a set of symptoms caused by a hyperactive immune system's inflammatory responses](https://www.ncbi.nlm.nih.gov/pubmed/12401468){:standalone}
 
- 
+![](https://factastichealth.com/wp-content/uploads/2018/05/Immune-system-chart.png)
 
- ![](https://factastichealth.com/wp-content/uploads/2018/05/Immune-system-chart.png)All the bacteria, viruses that cause an immunological stimulation in the gastrointestinal tract. This needs an ongoing requirement for a maintaining the consistency of our internal state in response to the alteration of the function of our biological systems, induced by external or internal stimuli.
+All the bacteria, viruses that cause an immunological stimulation in the gastrointestinal tract. This needs an ongoing requirement for a maintaining the consistency of our internal state in response to the alteration of the function of our biological systems, induced by external or internal stimuli.
 
 Proinflammatory cytokines produced by our body may highly contribute to a risk of developing depression (symptoms).
 

@@ -19,6 +19,28 @@ for categories.
 
 Posts are ordered by date, from newer to older.
 
+# Images with captions
+
+For Kramdown (the Markdown parser) to recognize images as figures with
+captions, this special syntax is required:
+
+```markdown
+Surrounding text
+
+![Image caption](/image/url.jpg){:standalone}
+
+More text
+
+```
+
+The `{:standalone}` part signals Kramdown to create a `<figure>` HTML
+element with a caption.
+
+For Netlify CMS, add an image and turn the editor into Markdown mode so
+you can add the standalone syntax.
+
+
+
 # Netlify CMS
 
 Visit https://factastichealth.com/admin/ and login with Github account
