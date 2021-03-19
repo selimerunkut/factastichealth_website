@@ -63,6 +63,19 @@
                 <a class="nav-link" href="/about">About</a>
                 </li>
 
+                {% for network in site.social_networks %}
+                  <li class="nav-item">
+                    <a
+                      href="{{ network[1] }}"
+                      class="nav-link"
+                      rel="noopener noreferrer me"
+                      target="_blank">
+                      <i class="fab fa-fw fa-{{ network[0] }}"></i>
+                      <span class="sr-only">{{ network[0] | capitalize }}</span>
+                    </a>
+                  </li>
+                {% endfor %}
+
                 {% include search-lunr.html %}
 
             </ul>

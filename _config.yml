@@ -46,3 +46,8 @@ collections:
   pages:
     output: true
     permalink: "/:title/"
+
+social_networks:
+  facebook: https://www.facebook.com/factastichealth/
+  twitter: https://twitter.com/FactasticHealth
+  instagram: https://www.instagram.com/factastichealth/
