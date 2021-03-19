@@ -44,7 +44,15 @@ you can add the standalone syntax.
 # Netlify CMS
 
 Visit https://factastichealth.com/admin/ and login with Github account
-to edit site contents.
+to edit site contents.  To configure this:
+
+* Visit Settings > Access Control on Netlify's panel
+* Install Github as an OAuth Provider
+
+More documentation here:
+
+* https://www.netlifycms.org/docs/github-backend/
+* https://docs.netlify.com/visitor-access/oauth-provider-tokens/#using-an-authentication-provider
 
 Currently, there's a [bug preventing
 spaces](https://github.com/netlify/netlify-cms/issues/4646) on the tags
