@@ -18,4 +18,4 @@ When the balance of good) and potentially harmful microbes are compromised and i
 
 Most immune responses produce their initial effects at some part of the body at different rates but information regarding immune challenges are almost immediately signaled to the brain like our senses would do it. This results in an immediate inflammatory impact on the brain from the immune reaction in the gut to substances like protein/molecule parts from food or to chemical compounds such as the pesticide [glyphosate](https://factastichealth.com/glyphosate).
 
-Part 2 in this series will be about [Gut Stress](https://factastichealth.com/gut-stress)
+Part 2 in this series will be about [Gut Stress](https://factastichealth.com/gut-stress-infection-or-loss-of-ecological-balance)
