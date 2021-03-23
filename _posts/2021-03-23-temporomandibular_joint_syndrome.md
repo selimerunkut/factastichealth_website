@@ -13,6 +13,8 @@ tags:
 - skull
 - TMJ
 - TMD
+image: /wp-content/uploads/after_migration_image_folder/Temporomandibular_joint.jpg
+
 ---
 
 
