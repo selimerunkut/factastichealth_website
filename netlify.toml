@@ -5,3 +5,5 @@
   environment = { JEKYLL_ENV = "production" }
 [[plugins]]
   package = "netlify-plugin-checklinks"
+[[plugins]]
+  package = "netlify-plugin-jekyll-cache"

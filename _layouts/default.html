@@ -130,7 +130,7 @@
 ================================================== -->
 <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center h-100">
+		<div class="col-md-5 transpdark align-self-center h-100 p-3">
       <div class="d-md-flex align-items-center justify-content-center h-100">
         {% assign pages = site.pages | where: 'footer', true | sort: 'order' %}
         {% if pages.size > 0 %}
@@ -140,6 +140,8 @@
             {% endfor %}
           </ul>
         {% endif %}
+
+        {% include newsletter.html %}
       </div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
