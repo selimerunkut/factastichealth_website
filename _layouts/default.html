@@ -130,18 +130,22 @@
 ================================================== -->
 <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
-		<div class="col-md-5 transpdark align-self-center h-100 p-3">
-      <div class="d-md-flex align-items-center justify-content-center h-100">
+		<div class="col-md-7 transpdark align-self-center h-100 p-3">
+      <div class="row no-gutters align-items-center justify-content-center h-100">
         {% assign pages = site.pages | where: 'footer', true | sort: 'order' %}
         {% if pages.size > 0 %}
-          <ul class="list-unstyled">
-            {% for p in pages %}
-              <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-            {% endfor %}
-          </ul>
+          <div class="col-12 col-md-6">
+            <ul class="list-unstyled">
+              {% for p in pages %}
+                <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         {% endif %}
 
-        {% include newsletter.html %}
+        <div class="col-12 col-md-6">
+          {% include newsletter.html %}
+        </div>
       </div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
