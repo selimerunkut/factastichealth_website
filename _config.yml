@@ -58,3 +58,4 @@ newsletter:
   delivery_method: smtp
   options:
     port: 587
+    enable_ssl: false
