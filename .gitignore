@@ -4,3 +4,6 @@ _site
 .sass-cache
 .jekyll-cache
 *~
+
+# Local Netlify folder
+.netlify
