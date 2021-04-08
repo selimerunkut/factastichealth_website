@@ -59,5 +59,7 @@ newsletter:
   to: factastichealth@gmail.com
   delivery_method: smtp
   options:
+    address: 'smtp.gmail.com'
     port: 587
-    enable_ssl: false
+    authentication: 'plain'
+    enable_starttls_auto: true 
