@@ -113,3 +113,16 @@ footer or not.
 Articles that existed on Wordpress have an `id` field to match them to
 the `posts` table.  Images were downloaded on the `wp-content/`
 directory so they keep their URLs.
+
+# Newsletter
+
+Configure [Netlify
+environment](https://app.netlify.com/sites/vigorous-hawking-a51951/settings/deploys#environment)
+with:
+
+```bash
+JEKYLL_NEWSLETTER_FROM
+JEKYLL_NEWSLETTER_TO
+JEKYLL_NEWSLETTER_USERNAME
+JEKYLL_NEWSLETTER_PASSWORD
+```

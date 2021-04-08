@@ -129,20 +129,26 @@
 <!-- Categories Jumbotron
 ================================================== -->
 <div class="jumbotron fortags">
-	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center h-100">
-      <div class="d-md-flex align-items-center justify-content-center h-100">
+	<div class="d-md-flex h-100 container">
+		<div class="col-md-6 transpdark align-self-center h-100 p-3">
+      <div class="row no-gutters align-items-center justify-content-center h-100">
         {% assign pages = site.pages | where: 'footer', true | sort: 'order' %}
         {% if pages.size > 0 %}
-          <ul class="list-unstyled">
-            {% for p in pages %}
-              <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-            {% endfor %}
-          </ul>
+          <div class="col-12 col-md-6">
+            <ul class="list-unstyled">
+              {% for p in pages %}
+                <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         {% endif %}
+
+        <div class="col-12 col-md-6">
+          {% include newsletter.html %}
+        </div>
       </div>
 		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
+		<div class="col-md-6 p-5 align-self-center text-center">
       {% assign categories_list = site.categories %}
       {% if categories_list.first[0] == null %}
           {% for category in categories_list %}
