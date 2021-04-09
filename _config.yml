@@ -55,11 +55,7 @@ social_networks:
   instagram: https://www.instagram.com/factastichealth/
 
 newsletter:
-  from: factastichealth@gmail.com
-  to: factastichealth@gmail.com
   delivery_method: smtp
   options:
-    address: 'smtp.gmail.com'
+    address: in-v3.mailjet.com
     port: 587
-    authentication: 'plain'
-    enable_starttls_auto: true 
