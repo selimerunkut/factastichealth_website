@@ -12,6 +12,6 @@ tags: []
 image: /wp-content/uploads/after_migration_image_folder/almost-every-ironman-ironman-vr.png
 ---
 
-Completing virtual triathlons since 2020 april almost every weekend. What started this mad journey was the launch of Ironman VR series on the 4.4.2020. 
-I had to skip one VR because I was on a sailing boat and did not had my bike with me...
+Almost every weekend, since 2020 april, I have been completing virtual triathlons. What started this journey was the launch of Ironman VR series on the 4.4.2020 and of course the cancelation of every event due to the covid 19 pandemic. 
+I had to skip one VR in 2020 - reaason - was on a sailing boat and did not had my bike with me 😀
 
