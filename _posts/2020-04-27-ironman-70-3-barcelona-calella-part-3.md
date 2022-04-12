@@ -42,8 +42,6 @@ Woke up, put on my swimsuit and my afterrace clothes, got my water bottles and n
 
 After putting everything onto the bike and my street clothes in the white bag I was ready for the race. Some athletes were doing the swim warmup, skipped that and made my way to the start line where the racing crowd was gathering.
 
-![](https://factastichealth.com/wp-content/uploads/2020/04/20190519_061812.jpg)
-
 Finally they started to play some cool hardrock music to pump us up. I was feeling very excited and also a little afraid that the excitement would burn a lot of my liver sugar and I would bonk very early. Even with my empty stomach nothing like that happened.
 
 3…2…1 The race started and the elites sprinted into the water and took off like jet skies.
