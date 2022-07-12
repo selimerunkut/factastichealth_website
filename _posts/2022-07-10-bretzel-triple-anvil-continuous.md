@@ -14,7 +14,7 @@ image: /wp-content/uploads/2022/07/bretzel.png
 On Wednesday we woke up at the Rives de la Fecht residence, biked to the Bretzel Ultra Tri Village the long way around to test the bike course. After arriving there, I got the support tent from the Race Director, Laurent, and set it up near the start/finish line.
 
 
-![](https://factastichealth.com/wp-content/uploads/2022/07/20220629_105106.jpg)
+![](/wp-content/uploads/2022/07/20220629_105106.jpg)
 
 
 There were no vegan meals available, mostly due to my last minute registration; so we bought some groceries to cook meals, some fruit and sweet stuff.
@@ -38,7 +38,7 @@ I ate almost all the nutrition, 4 gels, 3 bananas an orange, 1 cliff bar during 
 After 4 hours it started to rain and lasted with some pauses till the next day around 11:00 o clock.
 My swim time could easily be around 4 hours 30 minutes, and I was wondering why it took my worst estimation. After seeing the videos of my swim, my freestyle crawling really sucked. All the time crossing over on hand entry.
 
-![](https://photos.app.goo.gl/6B9HwJ6fxcL8wvLc9)
+[swim video](https://photos.app.goo.gl/6B9HwJ6fxcL8wvLc9)
 
 After the swim my partner helped me out of my swimsuit and I hopped into my biking gear while doing the T1 I ate another banana, put the rest of the gels and another clif bar into my bike tricot.
 We drove with the guide to the bike course, during the bumpy ride my chain got stuck while switching gears and I lost sight of the guide in the middle of some wine fields. Fixed the chain and drove into the direction where I last saw him heading. Fortunately he was just waiting after the first curve and drove me to the bike course. We did the first lap together and he drove to the mobile Cafe in the middle of the Bretzel Village just before the finish line.
@@ -57,7 +57,7 @@ Also during the morning hours I encountered two small wild hogs that panicked af
 
 In the early morning hours I had only 4 gels and a few clif bars left. So I texted my partner around 7 or 8:00 to buy me some gels and bars and foot powder to keep my feet dry, as it was soaked during the night and definitely not ready to run when the time comes. She got in total 2 kilos of clif bars and 3 kilos of gels, don't ask us why, it must have been the race excitement. I could probably survive, with that and the other food in the tent for a deca distance 😂
 
-![](https://factastichealth.com/wp-content/uploads/2022/07/20220630_084510.jpg)
+![](/wp-content/uploads/2022/07/20220630_084510.jpg)
 
 While waiting for my partner, I had found a better rhythm and was trying to ride as many laps as possible without getting off the bike.
 The longest break was probably the breakfast meal that morning.
@@ -65,8 +65,8 @@ After she arrived I also put the new food into small plastic bags and ate it on 
 I had the great fortune that my tires did not have a puncture during that night and the following day. In the end, it took me 27 hours to complete the 540 km. Finished the bike in the evening of friday, around 22:30
 During the ride it was nice to encounter other athletes and exchange some quick words while passing each other.
 
-![](https://factastichealth.com/wp-content/uploads/2022/07/20220701_223859.jpg)
-![](https://factastichealth.com/wp-content/uploads/2022/07/20220701_223933.jpg)
+![](/wp-content/uploads/2022/07/20220701_223859.jpg)
+![](/wp-content/uploads/2022/07/20220701_223933.jpg)
 
 Off the bike, I went into the tent, back and knees were hurting, as I sat down, my partner tried to massage some oil to relieve the tension and I applied some cold spray to the knees and my ass, as both were hurting from the ride.
 Changed into running clothes, ate something and went running. The first lap was with my partner, she showed me the course; that was a very good idea, as I felt a little dizzy and trying to get acustomed to running, first lap was done, now I had an idea in what direction not to run 😀; 95 laps to go.
@@ -74,14 +74,15 @@ The first 70 km felt very fast, it was a head to head race with Clement, another
 After the 75 km my legs cramped up and were very stiff, I could not really run and also fast walking was very difficult.
 A big mistake was going to the tent and trying to relax the legs and doing some black roll, as it did not help and I had lost valuable time. I also tried a massage with the physiotherapist there. Great guy, I felt no betterment, at first, so texted my coach and like before the race, he suggested the same mantra, and ultimate truth in ultra racing: "Just keep going". 
 
-![](https://factastichealth.com/wp-content/uploads/2022/07/20220702_093819.jpg)
+![](/wp-content/uploads/2022/07/20220702_093819.jpg)
 Texting my coach - Deca Dave
 
 After a few hours my leg felt gradually better, I even could run a little, again I made the mistake of not pacing myself and going too fast and the legs started cramping again. I had 30 laps to go and Clement only 20. I had no way of getting third place from him, so my morale was not that good. So I kept going but very slowly.
 
 
-Before the remaining 25 km I talked to my girlfriend, if she could run with me, so she could encourage me to go faster and finish before 22:00 o'clock and sleep at a sensible time at the hotel 😀
+Before the remaining 25 km I talked to my girlfriend, if she could run some of the laps with me, so she could encourage me to go faster and finish before 22:00 o'clock and sleep at a sensible time at the hotel 😀
 We set up an average pace of 9 km per hour for the laps and I tried to keep it, sometimes going faster sometimes slower.
 The ascents that I could run easily at the beginning of the run, now, they were feeling like steep mountain trails, running downhill was better but also painful. Had a few blisters by now and new ones are popping up or at least it felt that way. Had to put some blister tape before the final 16 laps.
 Clement had finished the race, we congratulated him and kept going to finish before it got too late and dark.
+
 After 55 hours and 22 minutes I arrived at the finish line at 21:30
