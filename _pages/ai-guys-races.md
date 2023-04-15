@@ -19,16 +19,30 @@ Distance: 678 km
 Time: 45:56:18  
 Location: Colmar - France  
 Official Result: Finished
+(swim)[https://www.strava.com/activities/7393754597]
+(bike)[https://www.strava.com/activities/7411533838]
+(run)[https://www.strava.com/activities/7404833344]
 
 
-27. Rheinuferlauf Duisburg
+DSHS Cologne Half Marathon
+
+Date: 25.08.2019  
+Distance: 27.39 km  
+Time: 03:10:00  
+Location: Cologne - Germany  
+Official Result: Finished
+[run](https://www.strava.com/activities/2653876143)
+
+
+
+27th Rheinuferlauf Duisburg
 
 Date: 27.07.2019  
 Distance: 21.1 km  
 Time: 02:50:00  
 Location: Duisburg - Germany  
 Official Result: Finished
-https://www.strava.com/activities/2627522666
+(run)[https://www.strava.com/activities/2627522666]
 
 
 12 hours of Hohler Buckel
@@ -39,7 +53,7 @@ Elevation: 4,289 m
 Time: 9:59:16  
 Location: Rodgau - Germany  
 Official Result: Finished
-Strava: https://www.strava.com/activities/2551991386
+(run)[https://www.strava.com/activities/2551991386]
 
 Wasserstadt Triathlon Hannover
 
@@ -51,9 +65,9 @@ Distance: 226.3 km
 Time: 14:33:49  
 Location: Hannover - Germany  
 Official Result: Finished
-https://www.strava.com/activities/2418905058
-https://www.strava.com/activities/2418904524
-https://www.strava.com/activities/2418903692
+(swim)[https://www.strava.com/activities/2418905058]
+(bike)[https://www.strava.com/activities/2418904524]
+(run)[https://www.strava.com/activities/2418903692]
 
 Ironman 70.3 Barcelona
 
@@ -65,9 +79,9 @@ Total Distance:
 Time: 06:52:34  
 Location: Calella - Spain  
 Official Result: Finished
-https://www.strava.com/activities/2381209648
-https://www.strava.com/activities/2381180189
-https://www.strava.com/activities/2381179912
+(swim)[https://www.strava.com/activities/2381209648]
+(bike)[https://www.strava.com/activities/2381180189]
+(run)[https://www.strava.com/activities/2381179912]
  
 
 Metro Marathon Dusseldorf
@@ -80,7 +94,7 @@ Official Result: Finished
 
  
 
-36. Vienna City Marathon - Relay 
+36th Vienna City Marathon - Relay 
 
 Date: 07.04.2019  
 Distance: 15.5 km  
@@ -100,7 +114,7 @@ Official Result: Finished
 
  
 
-40. Istanbul Marathon
+40th Istanbul Marathon
 
 Date: 11.11.2018  
 Distance: 42.2 km  
@@ -120,7 +134,7 @@ Official Result: Finished
 
  
 
-26. Rheinuferlauf Duisburg
+26th Rheinuferlauf Duisburg
 
 Date: 28.07.2018  
 Distance: 21.1 km  
