@@ -9,24 +9,65 @@ tags: []
 footer: true
 ---
 
+Colmar Ultratriathlon
+
+Date: 30.06.2022 
+Swim: 11,4 km
+Bike: 540 km
+Run: 126,6 km  
+Distance: 678 km  
+Time: 45:56:18  
+Location: Colmar - France  
+Official Result: Finished
+
+
+27. Rheinuferlauf Duisburg
+
+Date: 27.07.2019  
+Distance: 21.1 km  
+Time: 02:50:00  
+Location: Duisburg - Germany  
+Official Result: Finished
+https://www.strava.com/activities/2627522666
+
+
+12 hours of Hohler Buckel
+
+Date: 21.07.2019  
+Distance: 178.29 km
+Elevation: 4,289 m  
+Time: 9:59:16  
+Location: Rodgau - Germany  
+Official Result: Finished
+Strava: https://www.strava.com/activities/2551991386
+
 Wasserstadt Triathlon Hannover
 
-Date: 01.06.2019  
-Distance: 140.6 miles  
+Date: 01.06.2019
+Swim: 3,8 km
+Bike: 180 km
+Run: 42,2 km 
+Distance: 226.3 km
 Time: 14:33:49  
 Location: Hannover - Germany  
 Official Result: Finished
-
- 
+https://www.strava.com/activities/2418905058
+https://www.strava.com/activities/2418904524
+https://www.strava.com/activities/2418903692
 
 Ironman 70.3 Barcelona
 
 Date: 19.05.2019  
-Distance: 70.3 miles  
+Swim: 2,9 km
+Bike: 90 km
+Run: 21,1 km
+Total Distance:   
 Time: 06:52:34  
-Location: Barcelona - Spain  
+Location: Calella - Spain  
 Official Result: Finished
-
+https://www.strava.com/activities/2381209648
+https://www.strava.com/activities/2381180189
+https://www.strava.com/activities/2381179912
  
 
 Metro Marathon Dusseldorf
@@ -65,7 +106,7 @@ Date: 11.11.2018
 Distance: 42.2 km  
 Time: 04:32:34  
 Location: Istanbul - Turkey  
-Official Result: DNS (Probably Chip/Timer maldunction)
+Official Result: DNS (Probably Chip/Timer malfunction)
 
  
 
