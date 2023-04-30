@@ -8,7 +8,19 @@ id: 1203
 tags: []
 footer: true
 ---
+TuS Breitscheid 24h
 
+Date: 02.09.2022  
+Distance: 112,5 km  
+Time: 24:00:00  
+Location: Ratingen - Germany  
+Official Result: Finished
+<br/>
+[run1](https://www.strava.com/activities/7744586477)
+[run2](https://www.strava.com/activities/7748261719)
+<br/>
+<br/>
+<br/>
 Colmar Ultratriathlon
 
 Date: 30.06.2022
@@ -27,6 +39,18 @@ Official Result: Finished
 [swim](https://www.strava.com/activities/7393754597)
 [bike](https://www.strava.com/activities/7411533838)
 [run](https://www.strava.com/activities/7404833344)
+<br/>
+<br/>
+<br/>
+Akamas Blossom Trail Run
+
+Date: 02.04.2022  
+Distance: 60.26 km  
+Time: 09:54:00  
+Location: Akamas - Cyprus  
+Official Result: Finished
+<br/>
+[run](https://www.strava.com/activities/6920233016)
 <br/>
 <br/>
 <br/>
