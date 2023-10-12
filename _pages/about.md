@@ -7,6 +7,7 @@ title: About
 id: 260
 tags: []
 footer: true
+order: 7
 ---
 
 ### We are passionate about sharing the facts from latest research for health and wellness.

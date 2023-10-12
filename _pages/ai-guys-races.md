@@ -7,6 +7,7 @@ title: Selim's Races
 id: 1203
 tags: []
 footer: true
+order: 3
 ---
 TuS Breitscheid 24h
 

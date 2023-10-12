@@ -7,6 +7,7 @@ title: Plant-Based Resources
 id: 8096
 tags: []
 footer: true
+order: 4
 ---
 
 ## M.D.'s

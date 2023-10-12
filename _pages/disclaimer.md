@@ -7,7 +7,7 @@ title: Disclaimer
 id: 270
 tags: []
 footer: true
-order: 5
+order: 8
 ---
 
  **Medical and Personal Disclaimer**
