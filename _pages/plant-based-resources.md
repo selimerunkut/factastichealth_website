@@ -11,7 +11,7 @@ footer: true
 
 ## M.D.'s
 
-- [Dr. Michael Greger](https://nutritionfacts.org/)
+- [Nutritionfacts - Dr. Michael Greger & Team](https://nutritionfacts.org/)
 - [Dr. Michael Klaper](https://www.doctorklaper.com/)
 - [Dr. John McDougall](https://www.drmcdougall.com/)
 - [Dr. Joel Kahn](https://www.drjoelkahn.com/)
@@ -71,6 +71,7 @@ footer: true
 ## Portals
 
 - [Forks Over Knives](https://www.forksoverknives.com/)
+- [Plantbased health professionals](https://plantbasedhealthprofessionals.com/)
 
 ## Other Languages
 
