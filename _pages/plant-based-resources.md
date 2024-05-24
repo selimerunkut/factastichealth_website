@@ -56,7 +56,7 @@ order: 4
 ## Some Research and Educational Institutions:
 
 - [Physicians Committee for Responsible Medicine](https://www.pcrm.org/)
-- [TrueNorth Health Center](https://www.healthpromoting.com/)
+- [TrueNorth - Fasting How to Guide](https://www.truenorthhealthfoundation.org/fasting-literature-database/fasting-how-guide)
 - [Sustainable Consumption Institute](https://www.sci.manchester.ac.uk/)
 
 ## Some Plant-Based Youtube Channels
