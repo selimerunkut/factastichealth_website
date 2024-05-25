@@ -1,9 +1,8 @@
-
 ---
 draft: false
 categories:
 - AI Guy
-- Ultra
+- Some facts about
 uuid: f3ad855b-95b2-4cw1-a23d-bc9000b4ccd1
 layout: post
 title: "Managing and Reducing Ankylosing Spondylitis Symptoms: A Comprehensive Guide Backed by Scientific Evidence"
@@ -11,6 +10,7 @@ id: 8113
 tags: []
 image: /wp-content/uploads/after_migration_image_folder/2024/05/spinal-cord-with-red-details.jpg
 ---
+
 
 Managing and Reducing Ankylosing Spondylitis Symptoms: A Comprehensive Guide Backed by Scientific Evidence
 
@@ -64,17 +64,23 @@ NSAIDs have mostly a lot of side effects and can be damaging in the long term fo
 
 2.  Physical Therapy: A physical therapist can develop a personalized exercise program to improve flexibility, strength, and range of motion. Physical therapy is an essential component of AS management and can significantly improve function and reduce pain (10).
 
-3.  Surgery: In rare cases, surgery may be necessary to correct spinal deformities or replace damaged joints. Surgery is typically reserved for severe cases where other treatments have failed (11).
+3.  Surgery: In rare cases, surgery may be necessary to correct spinal deformities or replace damaged joints. Surgery is typically reserved for severe cases where other treatments have failed (9).
 
-Bonus MAterial
+Bonus Material
 ------------------
 
 [Dr. Klaper - Diet, Arthritis and Autoimmune Diseases](http://doctorklaper.com/answers/answers07)
+
+Wrapping it Up
+--------------
+
+Remember, Ankylosing Spondylitis is a chronic condition that requires a personalized and comprehensive approach to management. Working closely with your healthcare provider, you can develop a plan that effectively addresses your unique needs and goals.
 
 Disclaimer
 ----------
 
 This article is intended for informational purposes only and should not be considered a substitute for professional medical advice. Always consult with your healthcare provider before making any significant changes to your diet or lifestyle.
+
 
 References
 ----------
@@ -95,13 +101,13 @@ References
 
 8.  [Ward, M. M. (2009). The association of sleep problems and chronic pain. Pain Medicine, 10(2), 308-323.](https://pubmed.ncbi.nlm.nih.gov/19207951/)
 
-9.  Sieper, J., & Braun, J. (2002). Spondyloarthritis ankylosans: literature of DVMB. Bremen: Uni-Med Verlag.
+9.  [2019 Update of the American College of Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment Network Recommendations for the Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis](https://acrjournals.onlinelibrary.wiley.com/doi/full/10.1002/art.41042)
 
 10.  [Dagfinrud, H., Kvien, T. K., & Hagen, K. B. (2005). Physiotherapy interventions for ankylosing spondylitis. The Cochrane Database of Systematic Reviews, (3).](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002822.pub2/full)
 
-11.  Sieper, J., & Braun, J. (2002). Spondyloarthritis ankylosans: literature of DVMB. Bremen: Uni-Med Verlag.
+11. [2016 update of the ASAS-EULAR management recommendations for axial spondyloarthritis](https://pubmed.ncbi.nlm.nih.gov/28087505/)
 
-12. Macfarlane, G. J., Gibson, T., & Cleary, P. (2017). Dietary intake and nutritional status of patients with ankylosing spondylitis. Rheumatology, 56(2), 242-249. [invalid URL removed]
+12. [Supplementation of omega-3 fatty acids in patients with ankylosing spondylitis (2006) by R. Sundström et al](https://pubmed.ncbi.nlm.nih.gov/17062435/)
 
 13. [Akhtar, N. M., Naseer, R., Farooqi, A. Z., Aziz, W., & Naz, S. (2004). Oral enzyme combination versus diclofenac in the treatment of osteoarthritis of the knee--a double-blind prospective randomized study. Clinical rheumatology, 23(5), 410-415.](https://pubmed.ncbi.nlm.nih.gov/15278753/)
 
@@ -113,9 +119,7 @@ References
 
 17. [CreakyJoints: NSAIDs Can Wreck Your Stomach If You're Not Careful: Are You at Risk? (n.d.). CreakyJoints.](https://creakyjoints.org/living-with-arthritis/treatment-and-care/medications/nsaids-gastrointestinal-side-effects/)
 
-18. CreakyJoints: NSAIDs Can Wreck Your Stomach If You’re Not Careful: Are You at Risk? (n.d.). CreakyJoints. https://creakyjoints.org/living-with-arthritis/treatment-and-care/medications/nsaids-gastrointestinal-side-effects/ This article explains how NSAIDs work by blocking COX enzymes, which are important for protecting the stomach lining. Blocking COX enzymes can lead to GI side effects, ranging from mild discomfort to severe ulcers and bleeding.
+18. [CreakyJoints: NSAIDs Can Wreck Your Stomach If You’re Not Careful: Are You at Risk? (n.d.). CreakyJoints.](https://creakyjoints.org/living-with-arthritis/treatment-and-care/medications/nsaids-gastrointestinal-side-effects/)
 
-
-Remember, Ankylosing Spondylitis is a chronic condition that requires a personalized and comprehensive approach to management. Working closely with your healthcare provider, you can develop a plan that effectively addresses your unique needs and goals.
 
 *<sub><sup><a href="https://www.freepik.com/free-photo/spinal-cord-with-red-details_929225.htm#query=human%20vertebrae&position=3&from_view=keyword&track=ais_user&uuid=9793b1b1-d801-418d-aa30-487a82a3ad37">Title Image by kjpargeter</a> on Freepik</sup></sub>*
