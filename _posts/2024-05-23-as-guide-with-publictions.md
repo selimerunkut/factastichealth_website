@@ -14,7 +14,7 @@ image: /wp-content/uploads/after_migration_image_folder/2024/05/spinal-cord-with
 
 Managing and Reducing Ankylosing Spondylitis Symptoms: A Comprehensive Guide Backed by Scientific Evidence
 
-This will be about managing ankylosing spondylitis (AS), a chronic inflammatory condition that I personally deal with. Now, I've tried a bunch of different methods and diets over the years, and in this video, I'm going to break down which ones actually have scientific backing and share some evidence-based strategies that could really help you manage your AS symptoms.
+This will be about managing ankylosing spondylitis (AS), a chronic inflammatory condition that I personally deal with. Now, I've tried a bunch of different methods and diets over the years, I'm going to break down which ones actually have scientific backing and share some evidence-based strategies that could really help you manage your AS symptoms.
 
 We'll be looking at dietary interventions and lifestyle modifications that have been shown to make a difference, and I'll be referencing relevant scientific literature. Whether you're newly diagnosed or you've been living with AS for a while, I hope this short guide will give you some new insights and actionable tips.
 
@@ -26,7 +26,7 @@ AS is an autoimmune disorder where the immune system mistakenly attacks healthy 
 Dietary Interventions
 ---------------------
 
-Emerging research suggests a connection between diet and AS symptoms. While not a cure (debatable as it can reduce symptoms to virtually zero), specific dietary changes may help reduce inflammation and alleviate discomfort.
+Emerging research suggests a connection between diet and AS symptoms. While not a cure (the medical establishments consensus is that there is no cure only a remission from AS, this is debatable in my personal opinion), specific dietary changes may help reduce inflammation and alleviate discomfort.
 
 1.  Elimination Diet: An elimination diet involves removing potential trigger foods from your diet and then gradually reintroducing them to identify any that worsen symptoms. Research indicates that certain foods, such as dairy, wheat, corn, soy, red meat, and nightshade vegetables, can trigger inflammatory responses in some individuals with AS (1).
 

@@ -5,13 +5,13 @@ categories:
 - Ultra
 uuid: f3a5874b-83b2-4b9a-a12f-bc9736b4c8d2
 layout: post
-title: "VJM Jungle Marathon"
+title: "VJM 2023"
 id: 8101
 tags: []
 image: /wp-content/uploads/2023/10/vjm2023_title.jpg
 ---
 
-VJM 2023
+Vietnam Jungle Marathon 2023
 
 As the first light of dawn began to permeate the horizon, I embarked on an unforgettable journey - a 70km run that would test both my physical and mental boundaries. The race commenced at the early hour of 4am, with the darkness enveloping us as the adventure unfolded.
 
