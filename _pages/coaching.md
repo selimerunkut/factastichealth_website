@@ -10,7 +10,7 @@ footer: true
 order: 8
 ---
 
-# Let's start your Autoimmune Managment Journey togheter
+# Let's start your Autoimmune Management Journey together
 ## 30 Minute Free Introduction Call
 Cost: Free
 
@@ -27,7 +27,7 @@ Cost: 60 EUR
 ### Schedule
 [Schedule your first online call here](https://calendar.app.google/iLnvkgBp3pSbihq27)
 
-# One on One Coaching Packages
+# Coaching Packages
 ## 5 Sessions
 Cost: 270 EUR
 
