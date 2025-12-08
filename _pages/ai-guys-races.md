@@ -9,11 +9,129 @@ tags: []
 footer: true
 order: 3
 ---
+UTMB ELEPHANT 100
+
+Date: 05.12.2025
+Distance: 94+ km
+Elevation: 4800+ m
+Time: 24:52:28  
+Location: Thailand - Chiang Mai  
+Official Result: Finished ()
+<br/>
+[run](https://www.strava.com/activities/16663837436)
+<br/>
+<br/>
+<br/>
+
+UTMB Inthanon 50
+
+Date: 30.11.2025
+Distance: 74+ km
+Elevation: 2750+ m
+Time: 7:14:03  
+Location: Thailand - Inthanon  
+Official Result: Finished (273th)
+<br/>
+[run](https://www.strava.com/activities/16624554680)
+<br/>
+<br/>
+<br/>
+
+O3 Ultra Trail
+
+Date: 26.10.2024  
+Distance: 74+ km
+Elevation: 2750+ m
+Time: 14:05:11  
+Location: Cyprus - Troodos  
+Official Result: Finished (OTL)
+<br/>
+[run](https://www.strava.com/activities/12756073929)
+
+<br/>
+<br/>
+<br/>
+Limassol Triathlon
+
+Date: 10.06.2024
+<br/>
+Swim: 750 m
+<br/>
+Bike: 20 km
+<br/>
+Run: 5 km
+<br/> 
+Time: 8:56:05 h 
+Location: Cyprus - Limassol 
+Official Result: Finished
+<br/>
+[swim](https://www.strava.com/activities/12586336415)
+[bike](https://www.strava.com/activities/12586508855)
+[run](https://www.strava.com/activities/12586512053)
+<br/>
+<br/>
+<br/>
+TTdR160
+
+Date: 19.05.2024  
+Distance: 165+ km
+Elevation: 2750+ m
+Time: 26:21:32 h
+Location: Germany - Duisburg  
+Official Result: Finished (31th)
+<br/>
+[run](https://www.strava.com/activities/11452541336)
+
+<br/>
+<br/>
+<br/>
+Colmar Ultratriathlon
+
+Date: 28.06.2023
+<br/>
+Swim: 11,4 km
+<br/>
+Bike: 540 km
+<br/>
+Run: 126,6 km
+<br/>
+Distance: 678 km  
+Time: 50:54:34 h
+Location: Colmar - France  
+Official Result: Finished (5th)
+<br/>
+[swim](https://www.strava.com/activities/11767258110)
+[bike](https://www.strava.com/activities/11767410654)
+[run](https://www.strava.com/activities/11768832313)
+<br/>
+<br/>
+<br/>
+Olympusman Triathlon
+
+Date: 05.11.2022
+<br/>
+Swim: 1900 m
+<br/>
+Bike: 84 km (Eelvation: 2200+ m)
+<br/>
+Run: 21 km (Eelvation: 380+ m)
+<br/>
+Distance: 106,9 km  
+Time: 8:56:05 h 
+Location: Cyprus - Troodos 
+Official Result: Finished (5th)
+<br/>
+[swim](https://www.strava.com/activities/8069851613)
+[bike](https://www.strava.com/activities/8071902762)
+[run](https://www.strava.com/activities/11768832313)
+<br/>
+<br/>
+<br/>
 TuS Breitscheid 24h
 
 Date: 02.09.2022  
 Distance: 112,5 km  
-Time: 24:00:00  
+Time: 24:00:00 h
 Location: Ratingen - Germany  
 Official Result: Finished
 <br/>
@@ -33,9 +151,9 @@ Bike: 540 km
 Run: 126,6 km
 <br/>
 Distance: 678 km  
-Time: 45:56:18  
+Time: 45:56:18 h 
 Location: Colmar - France  
-Official Result: Finished
+Official Result: Finished (4th)
 <br/>
 [swim](https://www.strava.com/activities/7393754597)
 [bike](https://www.strava.com/activities/7411533838)
