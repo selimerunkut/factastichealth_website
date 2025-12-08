@@ -10,12 +10,11 @@ footer: true
 order: 8
 ---
 
-# Let's start your Autoimmune Management Journey together
+# Let's Sart Your Autoimmune Management Journey
 ## 30 Minute Free Introduction Call
 Cost: Free
 
 [Schedule your free online call here](https://calendar.app.google/iLnvkgBp3pSbihq27)
-
 
 
 ## 60 Minute Call
