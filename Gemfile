@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'csv'
+
 gem 'jekyll', '~>4'
 
 # If you have any plugins, put them here!
