@@ -1,12 +1,12 @@
 {% capture url %}{{ site.url }}{{ include.url }}{% endcapture %}
 
 {% unless include.share.url == '%url' %}
-  {% assign url = url | default: '' | cgi_escape %}
+  {% assign url = url | default: '' %}
 {% endunless %}
-{% assign title = include.title | default: '' | cgi_escape %}
-{% assign description = include.description | default: '' | cgi_escape %}
-{% assign tags = include.tags | join: ',' | default: '' | cgi_escape %}
-{% assign media = include.media | prepend: site.url | cgi_escape %}
+{% assign title = include.title | default: '' %}
+{% assign description = include.description | default: '' %}
+{% assign tags = include.tags | join: ',' | default: '' %}
+{% assign media = include.media | prepend: site.url %}
 <div class="btn share-btn {{include.share.icon}}-btn mb-2 mb-md-0 ml-md-1 mr-md-1">
     <a
     {% if include.share.url == '%url' %}
