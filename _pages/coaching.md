@@ -48,28 +48,37 @@ For deep transformation. We cover refined nutrition, advanced tracking, fasting 
 
 # Frequently Asked Questions (FAQ)
 
-### Is this coaching only for Ankylosing Spondylitis (AS)?
+<details>
+<summary>### Is this coaching only for Ankylosing Spondylitis (AS)?</summary>
 No. While my personal expertise comes from managing AS, the principles of reducing inflammation, gut health, and stress management apply to most autoimmune conditions (like RA, Lupus, Hashimoto’s, Psoriasis, etc.). We focus on the *drivers* of inflammation, which are often similar across different diagnoses.
-
-### Do I have to be vegan/plant-based to work with you?
+</details>
+<details>
+<summary>### Do I have to be vegan/plant-based to work with you?</summary>
 I strongly advocate for a Whole-Food Plant-Based (WFPB) approach because it was the key to my own remission. However, I meet you where you are. We will focus on adding nutrient-dense foods and removing inflammatory triggers. We move at a pace that is sustainable for you.
-
-### Are you a doctor?
+</details>
+<details>
+<summary>### Are you a doctor?</summary>
 No. I am a health coach and a patient expert. I do not diagnose diseases, prescribe medication, or treat injuries. I provide strategy, accountability, and lifestyle education. I work *alongside* your medical team. You should never stop medication without consulting your physician.
-
-### What happens in a coaching session?
+</details>
+<details>
+<summary>### What happens in a coaching session?</summary>
 We don't just "chat." We work. We review your symptom logs, analyze your food diary, and look for patterns between your lifestyle and your pain levels. You will leave every session with clear, actionable homework for the week ahead.
-
-### How do you handle my data and privacy?
+</details>
+<details>
+<summary>### How do you handle my data and privacy?</summary>
 Your privacy is paramount, especially regarding health data.
 *   **Storage:** Client notes and data are stored using encrypted, industry-standard secure protocols.
 *   **Deletion:** If you ever wish to leave the program, you can request the immediate and permanent deletion of your data, and we will comply locally.
-
-### Can I remain anonymous?
+</details>
+<details>
+<summary>### Can I remain anonymous?</summary>
 Yes. I understand that some high-profile clients or professionals prefer to keep their health challenges private. If you wish to work under a pseudonym or require a specific non-disclosure agreement (NDA), please contact me before booking. We can arrange alternative payment methods to protect your identity.
-
-### What if I need to cancel or reschedule?
+</details>
+<details>
+<summary>### What if I need to cancel or reschedule?</summary>
 Life happens. You can reschedule a session up to 24 hours in advance via the calendar link in your confirmation email. Sessions cancelled with less than 24 hours' notice may be forfeited.
-
-### I am ready. How do I start?
+</details>
+<details>
+<summary>### I am ready. How do I start?</summary>
 The best way is to book the **Free 30-Minute Intro Call** above. We will discuss your goals and choose the package that fits your needs.
+</details>
