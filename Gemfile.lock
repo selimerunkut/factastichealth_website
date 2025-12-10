@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    base64 (0.3.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     csv (3.3.5)
@@ -52,6 +53,7 @@ GEM
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -76,6 +78,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  base64
   csv
   jekyll (~> 4)
   jekyll-archives
@@ -84,6 +87,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown
+  logger
   rouge
   webrick
 
