@@ -4,7 +4,6 @@
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@use
-		"syntax" as *;
-@use
-    "starsnonscss" as *;
+@import
+		"syntax",
+    "starsnonscss";

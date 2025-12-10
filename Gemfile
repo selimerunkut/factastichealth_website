@@ -4,6 +4,7 @@ gem 'csv'
 gem 'base64'
 gem 'logger'
 gem 'bigdecimal'
+gem 'sassc', '~> 2.4'
 
 gem 'jekyll', '4.4.1'
 
