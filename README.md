@@ -126,3 +126,5 @@ JEKYLL_NEWSLETTER_TO
 JEKYLL_NEWSLETTER_USERNAME
 JEKYLL_NEWSLETTER_PASSWORD
 ```
+# netlify build simulation
+`docker compose run --rm jekyll sh -c "bundle install && JEKYLL_ENV=production bundle exec jekyll build"`
