@@ -19,5 +19,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem 'jekyll-sass-converter', '~> 2.2.0'
     gem 'webrick'
 end
