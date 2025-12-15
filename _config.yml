@@ -4,7 +4,6 @@ title: "Factastic Health"
 description: "Healthy For Life"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
-google_analytics: 'UA-110579843-1'
 permalink: /:title/
 # No / at the end
 url: https://factastichealth.com
