@@ -19,13 +19,14 @@ I help you move from being overwhelmed by symptoms to managing them with a prove
 This is a no-pressure call to see if we are a good fit. We will discuss your current struggles and I will explain how my coaching methodology works.
 [Schedule your free call here](https://calendar.app.google/iLnvkgBp3pSbihq27)
 
+
 ---
 
 ## Single Consultation Call
 **Duration:** 60 minutes
 **Cost:** 60 EUR
 Perfect for specific questions or troubleshooting a current flare-up.
-1. [Secure your payment here (Paypal)](https://paypal.me/factastichealth)
+1. [Make your payment here (Paypal)](https://paypal.me/factastichealth)
 2. [Schedule your time slot here](https://calendar.app.google/iLnvkgBp3pSbihq27)
 
 ---
@@ -44,6 +45,9 @@ For deep transformation. We cover refined nutrition, advanced tracking, fasting 
 1. [Purchase Package (Paypal)](https://paypal.me/factastichealth)
 2. [Schedule your first session](https://calendar.app.google/iLnvkgBp3pSbihq27)
 
+## You want to think about it? 
+#### Enter your Email and we will send you some free guides and information
+ {% include newsletter.html %}
 ---
 
 ## Frequently Asked Questions (FAQ)
