@@ -128,3 +128,12 @@ JEKYLL_NEWSLETTER_PASSWORD
 ```
 # netlify build simulation
 `docker compose run --rm jekyll sh -c "bundle install && JEKYLL_ENV=production bundle exec jekyll build"`
+
+# command to generate uuid for the pages
+`uuidgen | tr '[:upper:]' '[:lower:]'`
+
+# local development
+
+`docker compose up -d`
+
+http://0.0.0.0:4000/

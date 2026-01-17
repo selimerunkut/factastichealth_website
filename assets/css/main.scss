@@ -3,6 +3,10 @@
 	display:inline;
 }
 
+:root {
+    --background-background-image-opacity: 0.2;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 		"syntax",

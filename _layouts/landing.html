@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/screen.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+        .landing-page {
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #222;
+            color: #333;
+            overflow: hidden;
+        }
+        .landing-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('{{ page.background_image | default: "/assets/images/subscribe_page.webp" }}');
+            background-size: cover;
+            background-position: center;
+            opacity: var(--background-background-image-opacity);
+            z-index: 1;
+        }
+        .landing-content {
+            position: relative;
+            z-index: 2;
+            max-width: 1100px;
+            width: 100%;
+            padding: 40px;
+        }
+        .landing-logo {
+            width: 160px;
+            /*margin-bottom: 30px;*/
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .landing-title {
+            font-size: 4rem;
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 20px;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+        .landing-subtitle {
+            font-size: 1.3rem;
+            line-height: 1.5;
+            opacity: 0.9;
+            font-weight: bold;
+        }
+        .form-container {
+            padding-left: 30px;
+        }
+        #mc-embedded-subscribe-form input[type="email"] {
+            width: 100%;
+            padding: 15px;
+            border-radius: 5px;
+            border: none;
+            margin-bottom: 20px;
+            font-size: 1rem;
+        }
+        .consent-container {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 25px;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        .consent-container input {
+            margin-top: 4px;
+            margin-right: 12px;
+        }
+        .btn-subscribe {
+            background-color: #6f42c1;
+            color: white;
+            border: none;
+            padding: 15px;
+            width: 100%;
+            border-radius: 5px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .btn-subscribe:hover {
+            background-color: #5a32a3;
+        }
+        @media (max-width: 991px) {
+            .landing-title {
+                font-size: 2.5rem;
+            }
+            .form-container {
+                padding-left: 0px;
+                margin-top: 40px;
+            }
+        }
+        /* Override Bootstrap grid for landing page */
+        @media (min-width: 992px) {
+            .landing-content .col-lg-6 {
+                flex: none !important;
+                max-width: none !important;
+                padding-left: 11em;
+                padding-right: 11em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="landing-page">
+        <div class="landing-bg"></div>
+        <div class="landing-content container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 text-center">
+                    <img src="{{ page.logo | default: '/assets/images/logo.png' }}" alt="Logo" class="landing-logo">
+                    <h1 class="landing-title">{{ page.heading }}</h1>
+                    <p class="landing-subtitle">{{ page.subheading }}</p>
+                </div>
+                <div class="col-lg-6">
+                    <div class="form-container">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

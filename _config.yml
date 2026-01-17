@@ -41,7 +41,7 @@ adsense: "disabled"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, docker-compose.yml]
 
 collections:
   pages:
@@ -58,3 +58,4 @@ newsletter:
   options:
     address: in-v3.mailjet.com
     port: 587
+
