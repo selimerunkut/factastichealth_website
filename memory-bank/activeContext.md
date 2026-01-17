@@ -11,6 +11,7 @@ This file tracks the project's current status, including recent changes, current
 
 ## Recent Changes
 
+* 2026-01-02 12:08:00 - Created and updated `_pages/courses.md` with "Simple Pain Management Techniques" course information.
 * 2025-12-10 22:10:00 - Initialized Memory Bank files.
 * 2025-12-10 22:10:00 - Updated productContext.md with project goals, features, architecture, technologies.
 * 2025-12-10 22:10:00 - Updated systemPatterns.md with coding, architectural patterns from project structure.

@@ -7,6 +7,7 @@ This file tracks the project's progress using a task list format.
 
 ## Completed Tasks
 
+* Created and updated `_pages/courses.md` with "Simple Pain Management Techniques" course information.
 * Initialized Memory Bank structure.
 * Analyzed core project files (README.md, _config.yml, Gemfile, docker-compose.yml).
 * Populated productContext.md with project goals, features, architecture, and technologies.
