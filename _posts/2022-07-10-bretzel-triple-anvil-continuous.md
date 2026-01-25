@@ -20,6 +20,8 @@ On Wednesday we woke up at the Rives de la Fecht residence, biked to the Bretzel
 There were no vegan meals available, mostly due to my last minute registration; so we bought some groceries to cook meals, some fruit and sweet stuff.
 After that we went to Decathlon to get some rain proof bike gloves but they had only windproof ones and also bought some camping cutlery.
 
+{% include newsletter.html %}
+
 After bringing my partner back to the hotel, she wanted to stay there to prepare some meals for the race, I went to the race briefing by bike.
 She arrived at the second half of the race briefing with some freshly cooked meals, I ate all of it while the other competitors were getting impatient with an empty stomach listening to the briefing and got some nasty looks, while chomping the food down.
 After the race brifing ended, ate some pasta and carrot salad from the buffet. The day was definitly tiresome and we departed early to walk to the hotel.

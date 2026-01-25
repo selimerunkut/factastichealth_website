@@ -22,6 +22,8 @@ Some examples are:
 
 [Corticosterone](https://en.wikipedia.org/wiki/Corticosterone) is responsible for regulation of energy, immune reactions, and stress responses.
 
+{% include newsletter.html %}
+
 Adrenaline: It makes you ready to fight or flight.
 
 [TSH - Thyroid Stimulating Hormone](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone) regulates the body’s metabolic activities and it stimulates brown adipose tissue.

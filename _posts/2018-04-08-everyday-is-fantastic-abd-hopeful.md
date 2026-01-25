@@ -27,6 +27,8 @@ Instead, ask yourself:
 
 "What are other people doing who are in a better condition or even in remission?"
 
+{% include newsletter.html %}
+
 Most importantly believe in yourself. I don't care what others say. YOU can accomplish anything and everything if you set your mind to it.
 
 ### Start with small steps and repeat them every day.

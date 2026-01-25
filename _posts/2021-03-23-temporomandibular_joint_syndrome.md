@@ -22,3 +22,5 @@ The [Temporomandibular joint (TMJ)](https://www.nidcr.nih.gov/health-info/tmj) c
 Temporomandibular Joint syndrome (TMJ), also known as TMD (TM-Disorder), causes symptoms such as jaw pain, limited ability to open the mouth, headaches, neck.
 
 Temporomandibular Disorders (TMD) are a complex and poorly understood set of conditions characterized by pain in the jaw joint and surrounding tissues and limitation in jaw movements
+
+{% include newsletter.html %}

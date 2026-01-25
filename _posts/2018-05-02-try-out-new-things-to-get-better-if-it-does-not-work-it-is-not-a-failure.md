@@ -16,6 +16,8 @@ If you tried something out and did not get the results you wanted, it's definite
 
 For example, you changed something in your autoimmune diet that created flare-ups. Congratulations for having the courage to try something out new. Now you know one more troublemaker and can avoid it for a certain time, till your gut is strong enough.
 
+{% include newsletter.html %}
+
 Or you exercised too hard and now are too inflamed and your immune system is acting up. Not a problem, you learned your current limit and should avoid to exceed it until you get a little healthier.
 
 Your new autoimmune medication is damaging your gut and you are not on the right track for healing yourself. Talk to your doctor and change your medication and start your lifestyle change, so you wont need any medication after a certain time.

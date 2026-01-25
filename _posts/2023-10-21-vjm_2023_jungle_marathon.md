@@ -11,11 +11,13 @@ tags: []
 image: /wp-content/uploads/2023/10/vjm2023_title.jpg
 ---
 
-Vietnam Jungle Marathon 2023
+## Vietnam Jungle Marathon 2023
 
 As the first light of dawn began to permeate the horizon, I embarked on an unforgettable journey - a 70km run that would test both my physical and mental boundaries. The race commenced at the early hour of 4am, with the darkness enveloping us as the adventure unfolded.
 
 The route, though grueling, was replete with incredible vistas. Boasting an altitude of 3000m, the trail featured panoramic views of majestic valleys, towering mountains, serene rice fields, and quaint villages. The scenery, in its raw beauty, provided moments of solace and motivation amidst the intense challenge.
+
+{% include newsletter.html %}
 
 A particularly daunting aspect of the run was the climbing sections over massive rocks, requiring not just stamina, but a keen sense of balance and determination. It wasn’t just about physical endurance; it was a test of willpower and grit. Equally challenging, if not more, were the very steep downhill sections. Every step required calculated precision, ensuring safety while maintaining a steady pace.
 

@@ -18,6 +18,8 @@ I start the mornings with [celery stick smoothie](https://www.youtube.com/watch?
 
 After that comes a green smoothie of mixed salad, carrots, curcumin and ginger root. This keeps me satisfied until lunch and is fantastic for the stomach and gut. 
 
+{% include newsletter.html %}
+
 In between the celery stick juice and the smoothie, I do my breathing exercises and some stretching that gives me an uplift. After this, a few minutes meditation and you feel like your mind is ready for anything that the day will throw at you.
 
 Then comes the hard part, the cold shower. You can read about that in my post [My Autoimmune Taming Morning Routine part 2](https://factastichealth.com/my-autoimmune-taming-morning-routine-part-2)

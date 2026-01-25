@@ -16,6 +16,8 @@ The night is mostly for preparation and doing things offline as much as I can. T
 
 Also the evening meditation before going to bed. That also really helps me;I think due to leaving less for the brain to process while sleeping & dreaming.
 
+{% include newsletter.html %}
+
 Mapping my top 3 priorities for the next day helps me to focus on them easier and get things done.
 
 Some brainstorming and thinking about my numero uno goal or problem that I try to solve before going to bed, primes up my mind.

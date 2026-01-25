@@ -15,6 +15,8 @@ What do I eat daily? When I say prebiotics, my friends look at me blankly and pr
 
 Prebiotics help your gut to grow healthy bacteria and heal your gut problems. I knew that probiotics were important but I felt a tremendous improvement after combining both prebiotics and probiotics. That's because they work together, who would have thought that!
 
+{% include newsletter.html %}
+
 When I say prebiotics, don't be afraid. They are the food available everywhere.  They will help you not only in your gut but also immune system. I will give the list of prebiotics I eat every day below, Ready? Go!
 
 1. Cabbage: The local cheap and fresh cabbage sorts (green, savoy, napa, red) are delicious. They are also full of B vitamins.

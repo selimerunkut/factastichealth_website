@@ -34,6 +34,8 @@ Emerging research suggests a connection between diet and AS symptoms. While not 
 
 3.  Gut Health: A healthy gut microbiome is crucial for overall health and may play a role in managing AS. Consider incorporating probiotic-rich foods (e.g., sauerkraut, kimchi without fish sauce) or taking a probiotic supplement. Studies have shown that gut dysbiosis (an imbalance of gut bacteria) is more common in people with AS (3). Some research suggests that modulating the gut microbiome through diet or probiotics may help reduce inflammation in AS (4).
 
+{% include newsletter.html %}
+
 Additional Considerations
 -------------------------
 

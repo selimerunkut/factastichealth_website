@@ -25,6 +25,8 @@ I noticed that my Garmin watch was counting some pool laps twice, so I either sw
 
 After the swim, I changed into my cycling attire and started the ride wearing arm warmers. However, it quickly became hot, so I removed them. Throughout the ride, the chain continuously rubbed against the front derailleur, creating the usual noise. Adjusting it didn't improve the situation, and I didn't want to waste time trying to fix it. To alleviate discomfort, I rested my forearms on the handlebars to assume an aero position, but after a while, my skin and forearm bones started to hurt. I tried alternating between a normal riding position and the aero one.
 
+{% include newsletter.html %}
+
 I chose a 6 km loop with some elevation for the bike ride. By the time I completed 180 km, I had accumulated a total elevation of 1200m. At one point, I had to stop and walk through the garden to reach the support station at our house, which took about 30 minutes or more.
 
 During the bike ride, I consumed dried fruits and nuts that I had brought with me. During the stops, I had a meal consisting of buckwheat and potatoes. For hydration, I mostly drank packaged fruit juice like pineapple, cherry, and coconut. I had left the feeding station close to the house entrance so no one would fiddle with it, but that had the undesirable effect that I needed to get off the bike, walk to the feeding station, and walk back to the bike.

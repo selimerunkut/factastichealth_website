@@ -24,6 +24,8 @@ All leafy grains like Kale, Lettuce, Rocket, Swish chard and so on.
 
 After your gut starts to heal you can introduce more foods like Basmati rice, Pumpkin, Millet, Cauliflower, Zucchini  Cantaloupe, Okra and so on.
 
+{% include newsletter.html %}
+
 And a lot more foods based on your gut health level and elimination diet progress. Check out it out for more information here.
 
 Also be careful with seasoning your food, keep it to a minimum, as some spices like cayenne can promote inflammatory reactions.

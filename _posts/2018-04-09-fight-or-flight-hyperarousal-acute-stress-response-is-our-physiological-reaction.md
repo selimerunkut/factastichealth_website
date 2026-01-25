@@ -20,6 +20,8 @@ Cold water does exactly this and induces a stress response and activates the sym
 
 Keep in mind that not all stress is bad, because of our climate controlled environments, many are not under enough thermal stress.
 
+{% include newsletter.html %}
+
 During the fight or flight response
 
 - Your heart starts pumping blood faster so that your muscles will be ready to act faster

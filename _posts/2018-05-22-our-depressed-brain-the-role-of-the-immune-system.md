@@ -19,6 +19,8 @@ Change or loss of mucosal tolerance causes an up or down regulation of key immun
 
 All the bacteria, viruses that cause an immunological stimulation in the gastrointestinal tract. This needs an ongoing requirement for a maintaining the consistency of our internal state in response to the alteration of the function of our biological systems, induced by external or internal stimuli.
 
+{% include newsletter.html %}
+
 Proinflammatory cytokines produced by our body may highly contribute to a risk of developing depression (symptoms).
 
 Signals to the brain are sent via several mechanisms by cytokines from our body's immune system. This can also cross the brain‐blood barrier via our bloodstream.

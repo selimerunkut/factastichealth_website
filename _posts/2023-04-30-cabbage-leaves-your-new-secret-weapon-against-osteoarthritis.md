@@ -18,6 +18,8 @@ Yes, you read that right. According to a recent study, applying cabbage leaves t
 The study, entitled [Efficacy of Cabbage Leaf Wraps in the Treatment of Symptomatic Osteoarthritis of the Knee: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pubmed/26889617), found that applying cabbage leaf wraps, every day, for 4 weeks, on the knees, was more effective than the usual drug with respect to pain, functional disability, and quality of life.
 Munching on some cabbage can also have internal anti-inflammatory potential.
 
+{% include newsletter.html %}
+
 But wait, it gets better. The study was funded by none other than Germany's former President and First Lady's family foundation. Now, that's what I call a power move.
 
 So, why exactly do cabbage leaves work? Well, the anti-inflammatory effects of cabbage may explain their health benefits for osteoarthritis. And if you're not a fan of cabbage leaves, fear not. Eating cabbage or other cruciferous vegetables may also have internal anti-inflammatory potential.

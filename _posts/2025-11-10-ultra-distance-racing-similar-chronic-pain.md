@@ -24,6 +24,8 @@ When I eventually toes the line at an ultra-race, looked around at the other ath
 
 And if you are reading this while navigating an autoimmune condition, I want you to know something important: You are already an ultra-athlete. You just haven’t been given your medal yet.
 
+{% include newsletter.html %}
+
 ### The relentless nature of the "Invisible Ultra"
 
 In the world of extreme sports, we talk a lot about "The Pain Cave." It’s that dark mental place you go to 15 hours into a race when your glycogen is depleted, your muscles are screaming, and your brain is begging you to stop. Ultra-athletes are celebrated for their ability to sit in that cave and keep moving forward.

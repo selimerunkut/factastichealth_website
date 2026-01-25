@@ -22,6 +22,8 @@ If you are following a traditional Paleo-style AIP diet—eating bacon for break
 
 Here is the uncomfortable truth about why an animal-heavy exclusion diet might be missing the point, and why a **Plant-Based AIP** approach is the superior path to remission.
 
+ {% include newsletter.html %}
+
 ## 1. The Microbiome Mismatch
 The core philosophy of AIP is healing the "leaky gut" to stop the immune attack. But you cannot heal a compromised gut by starving your beneficial bacteria.
 

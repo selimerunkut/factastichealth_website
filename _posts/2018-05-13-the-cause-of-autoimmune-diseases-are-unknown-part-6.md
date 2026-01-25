@@ -15,6 +15,8 @@ image: /wp-content/uploads/2018/05/carrot-cooking-cutting-board-60123.jpg
  
  After you follow a strict diet and eat the foods we talked about in [part 5](https://factastichealth.com/the-cause-of-autoimmune-diseases-are-unknown-part-5) for a few months the inflammation in your body should have improved and seasonings can be introduced gradually, one at a time. And by now you should be enjoying the natural taste of vegetables, fresh fruits, and other whole foods. This is also a huge bonus of the elimination diet, to increase the taste bud sensitivity and decrease the amount of not so healthy seasonings like salt.
 
+{% include newsletter.html %}
+
 ### Let's talk about Beneficial Fats and Their Role in our Diet
 
 Omega-3 fatty acids are anti-inflammatory for inflammation-based autoimmune diseases.

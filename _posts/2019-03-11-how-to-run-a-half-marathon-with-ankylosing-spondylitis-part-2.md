@@ -20,6 +20,8 @@ The Cafe was really a nice place that had a rustic old design and antic furnitur
 Parked the car ate some more cantaloupe and bananas and was really full, maybe not the best idea 1 hour before the half marathon but it was fruit and digested well enough, till the race started.  
 Eating raw at the race day was definitely not a bad idea for me. I was a little too full for the race but definitely had a lot of energy despite being outside, walking and riding the bike whole Saturday.  
    
+{% include newsletter.html %}
+
 Before the race, I saw some runners with "[Laufen Gegen Leiden](https://laufengegenleiden.de/)" (run against suffering) jerseys. Did not know anything back then about the organization, saw just that also vegan was written and approached them to ask more what it was all about. As it turned out they do also running events every month at night: "[Gute Nacht Lauf](https://laufengegenleiden.de/gutenachtlauf/)" (good night runs) in Germany, Austria, Switzerland and collect donations that go directly to NGOs that work against the suffering of animals. The guys were also definitely more experienced runners than me and I asked them about some running recommendations. We wanted to start together but they were running the 10k race and not the half marathon.  
   
 The starting time approached fast with all that excitement, placed my self at the starting point and then the starter pistol was fired and the race began.   

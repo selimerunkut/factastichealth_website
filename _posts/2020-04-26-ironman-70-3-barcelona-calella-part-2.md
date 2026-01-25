@@ -18,6 +18,8 @@ I had already informed in Düsseldorf my landlady in Calella that my flight was 
 
 The next day woke up pretty early after a late night sleep, must have been the excitement. The weather was colder than expected. First thing in my mind was to visit the Ironman Village and take my racing gear, like BIP number, timing chip, swimming cap and so on. I took the road through Calella to have a glimpse at the town. It was small and very beautiful with a welcoming atmosphere. Stopped at on of the juice bars and ordered a smoothie. A friendly service like I was used to in Spain, the day was starting nice.
 
+{% include newsletter.html %}
+
 The Ironman village was more then one and a half kilometers away from the airbnb that I rented. Calella’s old town about 700 meters. Walked the rest of the road from the beach side with a nice view of the mediterranean sea. Roadblocks for the race parkour started appearing and my excitement also increasing with every step. Arriving at the Ironman Village small shops starting to appear selling all kinds of triathlon stuff from mountable nutrition kits to spare tires, tricots, helmets. They even had a high end bike rent shop with time trial bikes. 
 
 ![](https://factastichealth.com/wp-content/uploads/2020/04/20190517_133542-scaled.jpg)

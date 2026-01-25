@@ -25,6 +25,8 @@ The year leading up to this race was mentally very stressful. I tried to build u
 
 By race morning, the physical pain had subsided, yet I felt the weight of a long year. The start line was humid. It wasn't the scorching heat we feared, but the air was heavy. The moisture clung to everything. I wore full-coverage gear: tights, arm sleeves, and a cap with a neck protector. I looked ready for an expedition, not a sprint. This choice saved my skin later.
 
+ {% include newsletter.html %}
+
 ### A Change of Plans
 
 The race began with a climb. At kilometer 10, the dynamic shifted completely. I caught up to a friend on the trail. He is a very strong runner, but today he looked wrecked. Stomach issues plagued him early, and cramps followed.

@@ -15,6 +15,8 @@ What is the humane microbiome? Scientists have been working to specify the defin
 
 Most microbes reside only in the colon (which has a [volume of 0.4 litres](http://journals.sagepub.com/doi/10.1016/S0074-2740%2875%2980015-8)) and yet still not discovered but still in [research](http://www.sciencedirect.com/science/article/pii/S1590865815004144) for its influence in various diseases such as:
 
+{% include newsletter.html %}
+
 - Gastrointestinal (e.g., [inflammatory bowel disease, diabetes and obesity](https://www.sciencedirect.com/science/article/pii/S1931524412001624))
 - Virus (e.g., [Theiler's Murine Encephalomyelitis (TMEV), Poliovirus, Reovirus, Mouse Mammary Tumor Virus (MMTV)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373533/)), and
 - Inflammatory and autoimmune diseases (e.g., [rheumatoid arthritis (RA),](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011633/) [spondyloarthritis (SpA)](https://link.springer.com/article/10.1007/s11926-012-0314-y), [multiple sclerosis (MS)](https://www.ncbi.nlm.nih.gov/pubmed/29191793), [ankylosing spondylitis (AS) and reactive arthritis (ReA)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4789258/))

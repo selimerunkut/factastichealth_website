@@ -16,6 +16,8 @@ For example, Ankylosing Spondylitis is an inflammatory disease affecting tissues
 
 Yoga increases the flexibility and range of motion of the body and especially in the case of Ankylosing Spondylitis, the spine and helps to reverse the degenerative problems, improving posture and physical strength.
 
+{% include newsletter.html %}
+
 According to the Arthritis Foundation a program of yoga poses, breathing and relaxation can make a big difference in joint pain and swelling. And the better you feel, the better you can handle your RA.
 
 Yoga can be modified in a lot of different ways to help your joints by keeping them movable and adapt to your specific needs of most people with autoimmune diseases. Yoga is a complementary treatment that can greatly help alleviate these and other symptoms of autoimmune diseases.

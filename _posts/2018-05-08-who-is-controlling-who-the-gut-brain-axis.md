@@ -14,7 +14,9 @@ image: /wp-content/uploads/2018/05/blurred-background-dolls-fashion-935019.jpg
 
 The gut-brain axis is the biochemical signaling taking place between the gastrointestinal tract and the nervous system. Most of the times the signaling comes from the intestinal microbiota, which has an important role in healthy brain functions. The gut-brain axis details how the gut and brain communicate back and forth, and how the health of each influences the other.
 
-When the balance of good) and potentially harmful microbes are compromised and inflammation in the gut starts the inflammatory signaling molecules called cytokines are delivered to the brain by immune tissue in the gut.
+When the balance of good and potentially harmful microbes are compromised and inflammation in the gut starts the inflammatory signaling molecules called cytokines are delivered to the brain by immune tissue in the gut.
+
+{% include newsletter.html %}
 
 Most immune responses produce their initial effects at some part of the body at different rates but information regarding immune challenges are almost immediately signaled to the brain like our senses would do it. This results in an immediate inflammatory impact on the brain from the immune reaction in the gut to substances like protein/molecule parts from food or to chemical compounds such as the pesticide [glyphosate](https://factastichealth.com/glyphosate).
 

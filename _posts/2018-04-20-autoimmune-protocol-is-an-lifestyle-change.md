@@ -18,6 +18,8 @@ If you are eating plant-based and do regular exercises and stress management, th
 
 If you are eating a lot of junk, are a couch potato and under constant stress, then you need definitely an Intensive Lifestyle Change.
 
+{% include newsletter.html %}
+
 One thing that our society must overcome is that many doctors think, intensive lifestyle change is just too difficult to teach, and many patients think is too difficult to do.
 
 An intensive lifestyle change needs knowledge and action. First get your mindset right and set your goal and ignore the negative thought like it is too difficult or time-consuming or exhausting. Intensive lifestyle change is doable and essential to getting healthier. I have done it and YOU can do it also.

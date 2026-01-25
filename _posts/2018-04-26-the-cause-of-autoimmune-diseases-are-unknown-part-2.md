@@ -14,6 +14,8 @@ image: /wp-content/uploads/2018/04/kelly-sikkema-475112-unsplash.jpg
 
 The food choices we make can damage our gut directly with their physical or chemical properties if they are for example: acidic, greasy, digestive-intensive like meat or poor in nutrients.
 
+{% include newsletter.html %}
+
 Indirectly the above-mentioned kind of foods imbalance the microbiome, the most important residents in our gut, billions and billions of microorganisms that live in the mucus layer of our intestines. They form one part of our gut functional barrier.
 
 Physicians ignoring the [effect of our diet and how that relates to inflammatory rheumatoid diseases like arthritis or ankylosing spondylitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5682732/) is very short-sighted and leads to symptom management rather than dealing with the cause of the disease.

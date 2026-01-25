@@ -22,6 +22,8 @@ Most of the animal products contain residues of antibiotics fed/injected into th
 
 Asking for and getting prescription for antibiotics, just to be safe, which inevitably unbalances the microbiome is also not the best idea.
 
+{% include newsletter.html %}
+
 Some or all of the above-mentioned foods, drugs, and medications can reduce the numbers of beneficial organisms in the gut lining. Unfriendly and harmful microbes set up housekeeping in the mucus layer and injure the integrity of the intestinal wall. Our gut gets more "leaky" and lets more and more molecules through, that should never enter the bloodstream.
 
 This foreign molecules or protein fragments in our bloodstream can deposit at our joints and cause reactions, ranging from a little uncomfortable inflammation to hot and painful swelling.

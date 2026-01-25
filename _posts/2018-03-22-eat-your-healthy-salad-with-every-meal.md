@@ -27,7 +27,11 @@ In the previous post, we talked about mindset and the can-do
 mentality. It really helped me a lot to eat mostly the same things over
 and over again. After a while, I get used to my salads without
 dressing. Sometimes I was adding a pinch of salt to my big bowl but that
-was it as far as flavor enhancers go. Don't be intimidated by the
+was it as far as flavor enhancers go. 
+
+{% include newsletter.html %}
+
+Don't be intimidated by the
 salads, try to enjoy them, if you don't, in the beginning, you will
 after a while. This kind of disease forces us even to train our
 taste buds. Eat your salads, chew them well and stay healthy. Till next

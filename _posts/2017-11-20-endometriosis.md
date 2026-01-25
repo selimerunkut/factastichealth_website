@@ -27,3 +27,5 @@ Endometriosis -which I refer to as “the loud silent [disease](https://www.ncbi
 - [Psychotherapy and sexual therapy](https://www.ncbi.nlm.nih.gov/pubmed/28496368)
 
 It seems that the dietary treatment of endometriosis with lifestyle changes is based on the facts, and offers only positive side effects.
+
+{% include newsletter.html %}

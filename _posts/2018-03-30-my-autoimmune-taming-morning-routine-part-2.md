@@ -18,6 +18,8 @@ Cold showers can help you, in combination with breathing techniques and meditati
 
 They activate the sympathetic nervous system and [promote wakefulness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049052/), simply it's a good thing to wake up. 
 
+{% include newsletter.html %}
+
 Cold showers [activate your immune system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034215/) and regular exposure to cold showers [increases your immune system cells](https://www.ncbi.nlm.nih.gov/pubmed/8925815).
 
 They probably also help you to recover your [muscle power faster](https://www.researchgate.net/publication/278022513_Effects_of_cold_water_immersion_and_active_recovery_on_hemodynamics_and_recovery_of_muscle_strength_following_resistance_exercise) from a muscle soreness.

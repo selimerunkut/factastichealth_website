@@ -16,6 +16,8 @@ It's more like a guideline than a routine but nevertheless. First, let me tell y
 
 Preparing your food beforehand is also key to a daily routine. If I want to get things done, I must be prepared beforehand or shit hits the fan quick and I get frustrated not finishing things. As you know from my previous [posts](https://factastichealth.com/eat-your-healthy-salad-with-every-meal) I eat a salad with every meal. So the ingredients of my big salad are prepared and I mix them for the meals. I also love and eat my pseudo grains with my salads. This must be also prepared beforehand. I soak them 24 hours in water and cook them at least 15 minutes in the pressure cooker.
 
+{% include newsletter.html %}
+
 If I want to finish a task, full concentration is required, no social media, no procrastination whatsoever. I can't just cut my internet connection so I use bookmarks instead. Everything that comes to my mind and needs some type of online interaction I save as a bookmark to be done later in a batch processed way. That saves me huge amounts of time.
 
 Also looking sometimes at the huge dream board gives a good motivational boost. Yeah, I got one of these dream boards after making fun of them, how silly they are and so, I got really into it after factasticgirl put one up.

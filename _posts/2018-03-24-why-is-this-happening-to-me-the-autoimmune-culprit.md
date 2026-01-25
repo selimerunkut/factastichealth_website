@@ -22,6 +22,8 @@ Then we leave all the responsibility to the doctors, waiting for them to cure us
 
 The standard story is as follows: The culprit in most autoimmune disorders is not clear and cure doesn’t exist. But you have to continue your life with your pain and disability. Trying to ease your symptoms as much as possible with medication.
 
+{% include newsletter.html %}
+
 Good news here! This is changing slowly by the contribution of some researchers and doctors.
 
 Nobody wants to get sick. We think again; why did it happen to me? I was sporty, healthy, happy, successful and so on. The scientific research indicates 4 main factors: diet, lifestyle, environmental toxicity, and genetics.

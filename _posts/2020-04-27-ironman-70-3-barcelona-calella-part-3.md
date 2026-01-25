@@ -40,6 +40,8 @@ Of course I was not able to sleep for a couple of hours due to excitement, layed
 Sunday, raceday.
 Woke up, put on my swimsuit and my afterrace clothes, got my water bottles and nutrition bag (nuts and dried fruits) and started a fast walk to the transition area and start of the race.
 
+{% include newsletter.html %}
+
 After putting everything onto the bike and my street clothes in the white bag I was ready for the race. Some athletes were doing the swim warmup, skipped that and made my way to the start line where the racing crowd was gathering.
 
 Finally they started to play some cool hardrock music to pump us up. I was feeling very excited and also a little afraid that the excitement would burn a lot of my liver sugar and I would bonk very early. Even with my empty stomach nothing like that happened.

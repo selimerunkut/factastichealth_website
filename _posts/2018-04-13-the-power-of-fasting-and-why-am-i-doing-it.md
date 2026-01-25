@@ -10,5 +10,78 @@ tags: []
 image: /wp-content/uploads/2018/04/belly-3186730_1920.jpg
 ---
 
-## I know, Fasting is not an easy process, just simple. Let me tell you my personal experience.
-The barrier to overcome your eating urges gets really low if you have chronic pain or inflammation in your organs like your eyes. I'm doing either a cleanse or fast. Both help with the pain, I think fasting is more powerful than cleansing. So whats the difference? While cleansing, I eat green salads without dressing as much as I like and drink celery or cucumber juices. So basically it's not a zero calory intake, but around 200-400. Fasting, on the other hand, is from 0-50 calories with only water or tea. The recent trick that my immune system played was attacking my eye causing [Uveitis](https://en.wikipedia.org/wiki/Uveitis). It's the inflammation of the [uvea](https://en.wikipedia.org/wiki/Uvea "Uvea"), this is the pigmented layer that lies between the inner [retina](https://en.wikipedia.org/wiki/Retina "Retina") and the outer layer of the [sclera](https://en.wikipedia.org/wiki/Sclera "Sclera") and [cornea](https://en.wikipedia.org/wiki/Cornea "Cornea"). If it's not treated a possible outcome is blindness. In my case, the treatment was with cortisone and pupil-dilating medicine. I started a cleanse on the 4. day of my uveitis treatment and the redness in my eye got immediately better. This cleanse was one of my longest ones and lasted four days. If I have a lot of pain because of my autoimmune disease, I would start a cleanse or fast for at least 24 to 48 hours. After that period. The pain is almost completely gone, till I start eating "normal" food again. After this period my body and energy levels are fantastic and I feel really good. [Like my gut healing was accelerated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516560/). I highly suggest everyone, also healthy people to try either a cleanse or fast for a couple of days, just to experience the healing power and capacity of your body Please always consult your doctor before attempting a cleanse or fast. If you want to get detailed information about different kind of fasting methods download our Simply Pain Free PDF here [guides](https://factastichealth.com/guides/).
+I know, Fasting is not an easy process, just simple. Let me tell you my personal experience.
+
+## Eating Urges, Pain, and Inflammation
+
+The barrier to overcoming eating urges gets really low when you live with **chronic pain or inflammation**, especially when it affects sensitive organs like the eyes. In those moments, food can easily turn into comfort rather than nourishment.
+
+To manage this, I usually choose between **a cleanse or a fast**. Both help reduce my pain, but in my experience, **fasting feels more powerful than cleansing**.
+
+{% include newsletter.html %}
+
+## Cleanse vs. Fast — What’s the Difference?
+
+### 🥗 Cleansing
+During a cleanse, I eat:
+- Green salads (without dressing, as much as I want)
+- Celery or cucumber juice  
+
+This means it’s **not zero-calorie**, but usually around **200–400 calories per day**.
+
+### 💧 Fasting
+Fasting, on the other hand, is much stricter:
+- **0–50 calories per day**
+- Only **water or tea**
+
+
+
+## When My Immune System Turned on Me
+
+Recently, my immune system decided to attack my eye, causing **[Uveitis](https://en.wikipedia.org/wiki/Uveitis)**.
+
+Uveitis is the inflammation of the **[uvea](https://en.wikipedia.org/wiki/Uvea "Uvea")**, the pigmented layer that lies between:
+- the inner **[retina](https://en.wikipedia.org/wiki/Retina "Retina")**, and  
+- the outer layers of the **[sclera](https://en.wikipedia.org/wiki/Sclera "Sclera")** and **[cornea](https://en.wikipedia.org/wiki/Cornea "Cornea")**.
+
+If left untreated, uveitis can lead to **blindness**.
+
+In my case, treatment included:
+- Cortisone  
+- Pupil‑dilating medication  
+
+
+
+## How Cleansing Helped My Recovery
+
+I started a **cleanse on day four** of my uveitis treatment, and the redness in my eye improved almost immediately.  
+This ended up being **one of my longest cleanses**, lasting **four days**.
+
+Whenever my autoimmune disease causes significant pain, I now instinctively start:
+- a **cleanse or fast for at least 24–48 hours**
+
+After that period, the pain is **almost completely gone**—until I return to “normal” food again.
+
+
+
+## The After‑Effects
+
+After cleansing or fasting:
+- My **energy levels are fantastic**
+- My body feels light and strong
+- I genuinely feel *good*
+
+It almost feels like **my gut healing was accelerated**, which is also supported by research  
+([see this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516560/)).
+
+
+
+## Final Thoughts & Disclaimer
+
+I highly suggest that **everyone—including healthy people—** try a cleanse or fast for a couple of days, just to experience the healing power and capacity of the human body.
+
+⚠️ **Important:** Always consult your doctor before attempting a cleanse or fast.
+
+If you want detailed information about different fasting methods, download our **Simply Pain Free PDF** here:  
+👉 [Guides](https://factastichealth.com/guides/)
+

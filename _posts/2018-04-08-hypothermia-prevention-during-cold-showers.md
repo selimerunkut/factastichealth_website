@@ -22,6 +22,8 @@ Even a mild case of hypothermia diminishes our physical and mental abilities, th
 
 How quickly a person becomes hypothermic depends on a variety of factors, including personality, behavior, physical condition, clothing, and environmental factors. 
 
+{% include newsletter.html %}
+
 Older people, those under the influence of alcohol or drugs are particularly susceptible to hypothermia. Children and people with certain health disorders are also vulnerable. So are outdoor enthusiasts who spend time boating, fishing, swimming, hiking or skiing.  It’s important to be prepared just in case an accident happens by knowing the survival techniques and time limits in cold water.
 
 Even if your water temperature is very cold you should not get a hypothermia in a few minutes of cold showering. If your body (cardiovascular system and the contradiction ability of your veins) is not ready and you stay in the cold shower too long your core temperature may fall a little and you could shiver and feel cold for an hour or more. So don't overdo it. ease into the cold showers. Don't force yourself and your body.

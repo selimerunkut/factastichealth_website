@@ -39,6 +39,7 @@ This creates a vicious cycle: stress → immune activation → inflammation → 
 
 Chronic cortisol dysregulation is now considered a **mechanistic contributor** to diseases such as rheumatoid arthritis, lupus, and multiple sclerosis.¹
 
+ {% include newsletter.html %}
 
 ## Can Diet Influence Cortisol?
 
