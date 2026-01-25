@@ -136,4 +136,8 @@ JEKYLL_NEWSLETTER_PASSWORD
 
 `docker compose up -d`
 
+## check browser:
 http://0.0.0.0:4000/
+
+## show build logs
+`docker-compose logs jekyll `
